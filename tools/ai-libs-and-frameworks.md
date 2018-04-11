@@ -14,3 +14,8 @@ Dedupe.io
 Malong
 - https://www.malong.com/en/home
 - https://www.productai.com/demo/search
+
+# Text engineering
+GATE: https://gate.ac.uk/
+http://www.sintelix.com/
+http://www.opener-project.eu/
