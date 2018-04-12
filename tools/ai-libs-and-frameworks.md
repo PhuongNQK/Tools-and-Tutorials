@@ -10,6 +10,11 @@ Dedupe.io
 - https://github.com/dedupeio/dedupe
 - http://www.cs.utexas.edu/~ml/papers/marlin-dissertation-06.pdf
 
+# Data Reconciliation
+esProc
+- https://dzone.com/articles/comparing-and-reorganizing-data-with-esproc?fromrel=true
+- http://www.raqsoft.com/p
+
 # Visual Search
 Malong
 - https://www.malong.com/en/home
