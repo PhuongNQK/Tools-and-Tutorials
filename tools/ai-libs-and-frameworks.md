@@ -16,10 +16,10 @@ Malong
 - https://www.productai.com/demo/search
 
 # Text engineering
-GATE: https://gate.ac.uk/
-http://www.sintelix.com/
-http://www.opener-project.eu/
+- GATE: https://gate.ac.uk/
+- Text and Data Analytics: http://www.sintelix.com/
+- Natural Language Processing: http://www.opener-project.eu/
 
 # Text parser
-https://github.com/sirthias/parboiled
-Markdown processor: https://github.com/sirthias/pegdown
+- Parser based on Parsing expression grammar: https://github.com/sirthias/parboiled
+- Markdown processor: https://github.com/sirthias/pegdown
