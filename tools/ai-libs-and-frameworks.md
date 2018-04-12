@@ -19,3 +19,7 @@ Malong
 GATE: https://gate.ac.uk/
 http://www.sintelix.com/
 http://www.opener-project.eu/
+
+# Text parser
+https://github.com/sirthias/parboiled
+Markdown processor: https://github.com/sirthias/pegdown
