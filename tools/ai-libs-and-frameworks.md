@@ -28,3 +28,8 @@ Malong
 # Text parser
 - Parser based on Parsing expression grammar: https://github.com/sirthias/parboiled
 - Markdown processor: https://github.com/sirthias/pegdown
+
+# [Feature engineering](https://en.wikipedia.org/wiki/Feature_engineering)
+Feature tool
+- https://www.featuretools.com/
+- http://news.mit.edu/2015/automating-big-data-analysis-1016
