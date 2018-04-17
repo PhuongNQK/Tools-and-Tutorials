@@ -12,4 +12,6 @@
 ## Spark
 - https://www.dezyre.com/article/apache-spark-architecture-explained-in-detail/338
 - [Free e-book: Big Data Processing with Apache Spark](https://www.infoq.com/minibooks/apache-spark?utm_source=infoqWeeklyNewsletter&utm_medium=WeeklyNL_EditorialContent_minibooks&utm_campaign=02272018news&utm_term=notranscripts)
-- Flink vs. Spark: https://www.dezyre.com/article/apache-flink-vs-spark-will-one-overtake-the-other/282
+- Flink vs. Spark: 
+  - https://www.dezyre.com/article/apache-flink-vs-spark-will-one-overtake-the-other/282
+  - https://brewing.codes/2017/09/25/flink-vs-spark/
