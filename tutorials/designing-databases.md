@@ -5,7 +5,7 @@ https://neo4j.com/developer/graph-db-vs-rdbms/
 - HTAP: https://en.wikipedia.org/wiki/Hybrid_transactional/analytical_processing_(HTAP)
 
 # Databases
-Ignite (https://ignite.apache.org/)
+## Ignite (https://ignite.apache.org/)
 - Getting Started
   - [Hello World](https://dzone.com/articles/getting-started-with-apache-ignite?fromrel=true)
   - [Data Grid](https://dzone.com/articles/getting-started-with-apachereg-ignite-part-2?fromrel=true)
@@ -18,7 +18,9 @@ Ignite (https://ignite.apache.org/)
 - An IoT solution: 
   - https://www.gridgain.com/resources/technical-presentations/apache-ignite-real-time-processing-iot-generated-data-gridgain
   - https://www.gridgain.com/sites/default/files/technical-presentations/iot_fast_data_webinar.pdf
-ArangoDB (https://www.arangodb.com/)
+
+## ArangoDB (https://www.arangodb.com/)
 - https://arangodb.com/documentation/
 - https://www.arangodb.com/why-arangodb/sql-aql-comparison/
 - https://www.arangodb.com/white-paper-switching-relational-database/
+- https://www.arangodb.com/wp-content/uploads/2018/02/Switching-from-Relational-Databases-to-ArangoDB.pdf?utm_campaign=White%20Paper%3A%20Coming%20from%20Relational&utm_source=hs_automation&utm_medium=email&utm_content=60195704&_hsenc=p2ANqtz-948T_VxBFqjke0r9EtIrOtZ9ugShy_ee163XUR8A5zqD-yMJDxND15sMNzeacwlPsxppi2SBNM5dKhwi2sext0aquuKQ&_hsmi=60195704
