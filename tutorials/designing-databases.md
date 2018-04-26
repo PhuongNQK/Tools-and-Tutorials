@@ -18,6 +18,7 @@ https://neo4j.com/developer/graph-db-vs-rdbms/
 - An IoT solution: 
   - https://www.gridgain.com/resources/technical-presentations/apache-ignite-real-time-processing-iot-generated-data-gridgain
   - https://www.gridgain.com/sites/default/files/technical-presentations/iot_fast_data_webinar.pdf
+- https://apacheignite.readme.io/v1.6/docs/ignite-with-apache-cassandra
 
 ## ArangoDB (https://www.arangodb.com/)
 - https://arangodb.com/documentation/
