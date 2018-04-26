@@ -1,4 +1,6 @@
 # Entity Resolution
+General
+- https://www.slideshare.net/neo4j/will-lyon-entity-resolution
 Duke
 - https://github.com/larsga/Duke
 - https://www.slideshare.net/larsga/linking-data-without-common-identifiers
