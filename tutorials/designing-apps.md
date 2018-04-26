@@ -7,3 +7,4 @@ Should that be a Microservice?
 
 # Concepts
 - API vs. SPI: https://stackoverflow.com/questions/2954372/difference-between-spi-and-api
+- DDD: https://cemicrosoft.wordpress.com/2013/08/05/domain-oriented-n-layer-architecture/
