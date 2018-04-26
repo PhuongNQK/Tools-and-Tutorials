@@ -6,12 +6,21 @@
 - https://vocon-it.com/2016/11/20/kibana-hello-world-example/
 
 # Big Data Frameworks
-## Hadoop
+## Apache Hadoop
 - https://dzone.com/refcardz/getting-started-apache-hadoop?chapter=1
 
-## Spark
+## Apache Spark
 - https://www.dezyre.com/article/apache-spark-architecture-explained-in-detail/338
 - [Free e-book: Big Data Processing with Apache Spark](https://www.infoq.com/minibooks/apache-spark?utm_source=infoqWeeklyNewsletter&utm_medium=WeeklyNL_EditorialContent_minibooks&utm_campaign=02272018news&utm_term=notranscripts)
 - Flink vs. Spark: 
   - https://www.dezyre.com/article/apache-flink-vs-spark-will-one-overtake-the-other/282
   - https://brewing.codes/2017/09/25/flink-vs-spark/
+
+## Apache Beam
+- https://medium.com/@0x0ece/a-quick-demo-of-apache-beam-with-docker-da98b99a502a
+
+## Google DataFlow
+- https://cloud.google.com/dataflow/
+
+## Apache Nifi
+- https://www.slideshare.net/hortonworks/integrating-apache-nifi-and-apache-flink-57934781
