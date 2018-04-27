@@ -11,6 +11,7 @@ Dedupe.io
 - https://dedupe.io/documentation/how-it-works.html
 - https://github.com/dedupeio/dedupe
 - http://www.cs.utexas.edu/~ml/papers/marlin-dissertation-06.pdf
+- https://github.com/dedupeio/dedupe-examples
 
 # Data Reconciliation
 esProc
