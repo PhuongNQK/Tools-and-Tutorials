@@ -7,3 +7,4 @@
 - [JSBin](https://jsbin.com/?html,output)
 - [A collection of Fiddles for most popular languages](https://fiddles.io/)
 - [A collection of online compilers and editors for 68+ languages](https://www.jdoodle.com/)
+- [Onteractive notebooks for data analysis, visualization, and exploration](https://beta.observablehq.com/?utm_source=d3js-org&utm_medium=banner&utm_campaign=try-observable)
