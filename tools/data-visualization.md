@@ -1,0 +1,3 @@
+- [D3](https://d3js.org) is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS.
+- [Processing](https://processing.org/) is a flexible software sketchbook and a language for learning how to code within the context of the visual arts.
+- [Protovis](https://mbostock.github.io/protovis/) - (No longer under active development)
