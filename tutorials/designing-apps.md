@@ -8,3 +8,7 @@ Should that be a Microservice?
 # Concepts
 - API vs. SPI: https://stackoverflow.com/questions/2954372/difference-between-spi-and-api
 - DDD: https://cemicrosoft.wordpress.com/2013/08/05/domain-oriented-n-layer-architecture/
+- Microservices & DevOps: https://www.red-gate.com/blog/database-devops/thinking-microservices-need-devops-first-nebbia?utm_source=simpletalk&utm_medium=pubemail&utm_content=20180417-slota3&utm_term=simpletalkmain
+
+# Samples
+- Calling RESTful APIs in Unity3D: https://www.red-gate.com/simple-talk/dotnet/c-programming/calling-restful-apis-unity3d/?utm_source=simpletalk&utm_medium=pubemail&utm_content=20180417-slota2&utm_term=simpletalkmain
