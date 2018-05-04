@@ -1,5 +1,6 @@
 # Installation
 - https://medium.com/@sebagomez/installing-the-docker-client-on-ubuntus-windows-subsystem-for-linux-612b392a44c4
+- https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly
 
 # Getting started
 https://docs.docker.com/get-started/
