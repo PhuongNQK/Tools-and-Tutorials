@@ -1,3 +1,9 @@
+# Installation
+- https://medium.com/@sebagomez/installing-the-docker-client-on-ubuntus-windows-subsystem-for-linux-612b392a44c4
+
+# Getting started
+https://docs.docker.com/get-started/
+
 # Sharing data between containers
 https://www.digitalocean.com/community/tutorials/how-to-share-data-between-docker-containers
 
