@@ -1,0 +1,2 @@
+- Vert.x: https://vertx.io/
+- Spring: https://spring.io/
