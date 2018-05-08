@@ -6,6 +6,7 @@ Duke
 - https://www.slideshare.net/larsga/linking-data-without-common-identifiers
 - http://www.garshol.priv.no/blog/217.html
 - https://www.slideshare.net/larsga/deduplication
+- https://datascience.stackexchange.com/questions/22587/algorithms-for-aggregating-duplicate-identities-based-on-non-numerical-data
 
 Dedupe.io
 - https://dedupe.io/documentation/how-it-works.html
@@ -18,10 +19,16 @@ esProc
 - https://dzone.com/articles/comparing-and-reorganizing-data-with-esproc?fromrel=true
 - http://www.raqsoft.com/p
 
+# Search
+- https://www.searchtechnologies.com/blog/why-big-data-needs-search
+
 # Visual Search
 Malong
 - https://www.malong.com/en/home
 - https://www.productai.com/demo/search
+
+ZoomData
+- https://www.zoomdata.com
 
 # Text engineering
 - GATE: https://gate.ac.uk/
