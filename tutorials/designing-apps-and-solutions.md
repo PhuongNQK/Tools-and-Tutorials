@@ -18,3 +18,5 @@ Should that be a Microservice?
 # Designing Solutions
 ## Principles
 - Which is the preferred deployment model from the customer's perspective: on-prem, in cloud (GCP, Azure, AWS), or hybrid (Azure Stack from Microsoft, OpenStack from Ubuntu)?
+- Any application porting is needed? Feasible? E.g. 
+  - An application may need porting from Red Hat to Ubuntu due to lack of official support: https://stackoverflow.com/questions/30947478/how-does-one-install-marklogic-8-on-ubuntu-14-04
