@@ -10,6 +10,8 @@ IntelliJ IDEA:
 - Plugins:
   + Code review: https://www.sonarlint.org/intellij/
 
+[Code::Blocks - The open source, cross platform, free C, C++ and Fortran IDE](http://www.codeblocks.org/)
+
 # Code reviewing tools
 SonarQube: 
 - https://www.sonarqube.org/
