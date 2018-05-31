@@ -34,6 +34,7 @@ ZoomData
 - GATE: https://gate.ac.uk/
 - Text and Data Analytics: http://www.sintelix.com/
 - Natural Language Processing: http://www.opener-project.eu/
+- Semantic Text Analytics as a service: https://dandelion.eu/
 
 # Text parser
 - Parser based on Parsing expression grammar: https://github.com/sirthias/parboiled
