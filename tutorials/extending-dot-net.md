@@ -1,6 +1,7 @@
 # LINQ Query Provider
 - Source code: https://github.com/aspnet/EntityFrameworkCore
 - [EF Core Database Providers](https://docs.microsoft.com/en-us/ef/core/providers/)
+- [A Toolkit for building LINQ IQueryable providers](https://github.com/mattwar/iqtoolkit)
 - [Expression Trees](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/expression-trees/)
 - [Walkthrough: Creating an IQueryable LINQ Provider](https://msdn.microsoft.com/en-us/library/bb546158.aspx)
 - [Relinq](https://github.com/re-motion/Relinq)
