@@ -14,3 +14,5 @@
 - [Entity Framework/Core and LINQ to Entities (5) Query Translation Implementation](https://weblogs.asp.net/dixin/entity-framework-core-and-linq-to-entities-5-query-translation-implementation)
 - [re-linq: Subquery boundaries after GroupBy, Union, and similar operators?](https://www.re-motion.org/blogs/mix/category/re-linq/)
 - [From an AST to a Relinq model](https://medium.com/@matthew47671280/from-an-ast-to-a-relinq-model-875884200a8c)
+- Best practices:
+  - http://foreverframe.net/when-use-include-with-entity-framework/
