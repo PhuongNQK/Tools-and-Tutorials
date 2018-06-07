@@ -29,3 +29,13 @@ Utilize abstraction layers for flexibility. E.g.
 - Open to polyglotting:
   - http://memeagora.blogspot.com/2006/12/polyglot-programming.html
   - http://www.jamesserra.com/archive/2015/07/what-is-polyglot-persistence/
+- Define API for integration between different subsystems / components:
+  - REST vs. GraphQL: https://dev-blog.apollodata.com/graphql-vs-rest-5d425123e34b
+  - REST:
+    - Swagger: http://swagger.io/
+  - GraphQL:
+    - https://www.multidots.com/graphql-efficient-alternative-rest/
+    - Wrapping a REST API in GraphQL: https://graphql.org/blog/rest-api-graphql-wrapper/
+    - Play with GraphQL: https://launchpad.graphql.com/1jzxrj179
+    - Getting Started with GraphQL and Spring Boot: http://www.baeldung.com/spring-graphql
+    - GraphQL Java implementation: https://github.com/graphql-java/graphql-java
