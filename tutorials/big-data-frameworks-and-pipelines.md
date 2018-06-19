@@ -5,6 +5,10 @@
 - https://vocon-it.com/2016/11/18/elasticsearch-hello-world-example/
 - https://vocon-it.com/2016/11/20/kibana-hello-world-example/
 
+# Search Engines
+## ElasticSearch
+- https://qbox.io/blog/optimizing-elasticsearch-how-many-shards-per-index
+
 # Big Data Frameworks
 ## Apache Hadoop
 - https://dzone.com/refcardz/getting-started-apache-hadoop?chapter=1
