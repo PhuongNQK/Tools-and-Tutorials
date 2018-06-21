@@ -1,3 +1,9 @@
+# Build an AI product
+- https://towardsdatascience.com/launch-with-ai-in-1-week-a4f4f45cc177
+
+# Machine Learning
+- https://blog.machinebox.io/machine-learning-on-premise-54420d816a22
+
 # Entity Resolution
 General
 - https://www.slideshare.net/neo4j/will-lyon-entity-resolution
@@ -33,7 +39,22 @@ ZoomData
 # Text engineering
 - GATE: https://gate.ac.uk/
 - Text and Data Analytics: http://www.sintelix.com/
-- Natural Language Processing: http://www.opener-project.eu/
+- Natural Language Processing (language / sentence detection, topic modelling, entity / attribute extraction, classification, sentiment analysis, etc.): 
+    - http://www.opener-project.eu/
+    - OpenNLP: https://opennlp.apache.org/
+    - Spacy: https://spacy.io/
+    - Topic modelling:
+        - https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730
+        - https://github.com/lda-project/lda, http://lda.readthedocs.io/en/latest/
+        - https://github.com/rajdeepd/template-Labelling-Topics-with-wikipedia
+        - Stanford Topic Modeling Toolbox: https://nlp.stanford.edu/software/tmt/tmt-0.4/
+    - Entity extraction:
+    - Entity attribute extraction:
+        - http://www.sersc.org/journals/IJDTA/vol9_no5/19.pdf
+    - Classifying:
+        - Fake news: https://blog.machinebox.io/detect-fake-news-by-building-your-own-classifier-31e516418b1d
+        - Spam detector: https://blog.machinebox.io/how-to-train-a-spam-detector-with-a-97-accuracy-with-machine-box-5e42243518ab
+        - Sentiment analysis
 - Semantic Text Analytics as a service: https://dandelion.eu/
 
 # Text parser
@@ -48,3 +69,6 @@ Feature tool
 # BI
 - Hue is an open source Analytics Workbench for self service BI: http://gethue.com/
 - Tableau: https://www.tableau.com/
+
+# Object / image detection
+- Machinebox: https://towardsdatascience.com/launch-with-ai-in-1-week-a4f4f45cc177
