@@ -7,6 +7,7 @@
 - [Relinq](https://github.com/re-motion/Relinq)
 - [A General Purpose LINQ Foundation](https://www.re-motion.org/download/re-linq.pdf)
 - [re-linq: Subquery boundaries after GroupBy, Union, and similar operators?](https://www.re-motion.org/blogs/mix/category/re-linq)
+- [re-linq: Extensibility: Custom query operators](https://www.re-motion.org/blogs/mix/2010/10/28/re-linq-extensibility-custom-query-operators/)
 - Group Join:
   - https://docs.microsoft.com/en-us/dotnet/csharp/linq/perform-grouped-joins
   - https://stackoverflow.com/questions/15595289/linq-to-entities-join-vs-groupjoin
