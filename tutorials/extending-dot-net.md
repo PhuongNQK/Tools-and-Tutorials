@@ -4,10 +4,11 @@
 - [A Toolkit for building LINQ IQueryable providers](https://github.com/mattwar/iqtoolkit)
 - [Expression Trees](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/expression-trees/)
 - [Walkthrough: Creating an IQueryable LINQ Provider](https://msdn.microsoft.com/en-us/library/bb546158.aspx)
-- [Relinq](https://github.com/re-motion/Relinq)
-- [A General Purpose LINQ Foundation](https://www.re-motion.org/download/re-linq.pdf)
-- [re-linq: Subquery boundaries after GroupBy, Union, and similar operators?](https://www.re-motion.org/blogs/mix/category/re-linq)
-- [re-linq: Extensibility: Custom query operators](https://www.re-motion.org/blogs/mix/2010/10/28/re-linq-extensibility-custom-query-operators/)
+- Relinq: https://github.com/re-motion/Relinq
+    - [A General Purpose LINQ Foundation](https://www.re-motion.org/download/re-linq.pdf)
+    - [re-linq: Extensibility: Custom query operators](https://www.re-motion.org/blogs/mix/2010/10/28/re-linq-extensibility-custom-query-operators/)
+    - https://www.re-motion.org/blogs/mix/2011/12/20/re-linq-how-to-recognize-if-a-method-is-a-query-operator/
+    - [re-linq: Subquery boundaries after GroupBy, Union, and similar operators?](https://www.re-motion.org/blogs/mix/category/re-linq)
 - Group Join:
   - https://docs.microsoft.com/en-us/dotnet/csharp/linq/perform-grouped-joins
   - https://stackoverflow.com/questions/15595289/linq-to-entities-join-vs-groupjoin
