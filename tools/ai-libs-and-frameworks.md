@@ -56,6 +56,12 @@ ZoomData
         - Spam detector: https://blog.machinebox.io/how-to-train-a-spam-detector-with-a-97-accuracy-with-machine-box-5e42243518ab
         - Sentiment analysis
 - Semantic Text Analytics as a service: https://dandelion.eu/
+- Tutorials:
+  + NLP Key Terms Explained: https://www.kdnuggets.com/2017/02/natural-language-processing-key-terms-explained.html
+  + Machine Learning Key Terms Explained: https://www.kdnuggets.com/2016/05/machine-learning-key-terms-explained.html
+  + Deep Learning Key Terms Explained: https://www.kdnuggets.com/2016/10/deep-learning-key-terms-explained.html
+  + A Framework for Approaching Textual Data Science Tasks: https://www.kdnuggets.com/2017/11/framework-approaching-textual-data-tasks.html
+  + A walkthrough in Python: https://www.kdnuggets.com/2018/03/text-data-preprocessing-walkthrough-python.html
 
 # Text parser
 - Parser based on Parsing expression grammar: https://github.com/sirthias/parboiled
