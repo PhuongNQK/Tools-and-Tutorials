@@ -16,3 +16,17 @@ IntelliJ IDEA:
 SonarQube: 
 - https://www.sonarqube.org/
 - There are plugins for Visual Studio IDE, Visual Studio Code, IntelliJ IDEA, Atom
+
+# Text editors
+## Online tools:
+- View / edit Markdown (.md) files: https://dillinger.io/
+- View / edit Swagger files: https://swagger.io/
+
+## Offline tools: 
+- [VSCode](https://code.visualstudio.com/) + the following plugins 
+  + Edit Markdown files: [Markdown All in One from Yu Zhang](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+  + Export HTML with PlantUML support: [Markdown PDF plugin from yzane](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
+  + View / edit Swagger files: [Swagger Viewer from Arjun](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer)
+  + Right-click menu item to open HTML files in a browser: [Open in Browser from TechER](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)
+  + View generated PDF: [vscode-pdf from tomoki1207](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
+- [Notepad++](https://notepad-plus-plus.org/) 
