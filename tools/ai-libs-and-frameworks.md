@@ -42,7 +42,9 @@ ZoomData
 - Natural Language Processing (language / sentence detection, topic modelling, entity / attribute extraction, classification, sentiment analysis, etc.): 
     - http://www.opener-project.eu/
     - OpenNLP: https://opennlp.apache.org/
-    - Spacy: https://spacy.io/, https://spacy.io/usage/linguistic-features
+    - Spacy: 
+        - https://spacy.io/, https://spacy.io/usage/linguistic-features
+        - https://www.kdnuggets.com/2018/05/getting-started-spacy-natural-language-processing.html
     - Topic modelling:
         - https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730
         - https://github.com/lda-project/lda, http://lda.readthedocs.io/en/latest/
