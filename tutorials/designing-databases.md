@@ -3,6 +3,7 @@ https://neo4j.com/developer/graph-db-vs-rdbms/
 
 # Concepts
 - HTAP: https://en.wikipedia.org/wiki/Hybrid_transactional/analytical_processing_(HTAP)
+- Data Lake: https://www.kdnuggets.com/2018/06/data-lake-evolution-data-processing.html
 
 # Databases
 ## Ignite (https://ignite.apache.org/)
