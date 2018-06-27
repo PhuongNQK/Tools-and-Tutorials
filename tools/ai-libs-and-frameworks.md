@@ -45,6 +45,7 @@ ZoomData
     - Spacy: 
         - https://spacy.io/, https://spacy.io/usage/linguistic-features
         - https://www.kdnuggets.com/2018/05/getting-started-spacy-natural-language-processing.html
+        - Spacy vs. Standford NER / LingPipe / NLTK: http://www.aclweb.org/anthology/W16-2703
     - Topic modelling:
         - https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730
         - https://github.com/lda-project/lda, http://lda.readthedocs.io/en/latest/
