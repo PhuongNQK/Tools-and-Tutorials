@@ -26,3 +26,5 @@ https://neo4j.com/developer/graph-db-vs-rdbms/
 - https://www.arangodb.com/white-paper-switching-relational-database/
 - https://www.arangodb.com/wp-content/uploads/2018/02/Switching-from-Relational-Databases-to-ArangoDB.pdf?utm_campaign=White%20Paper%3A%20Coming%20from%20Relational&utm_source=hs_automation&utm_medium=email&utm_content=60195704&_hsenc=p2ANqtz-948T_VxBFqjke0r9EtIrOtZ9ugShy_ee163XUR8A5zqD-yMJDxND15sMNzeacwlPsxppi2SBNM5dKhwi2sext0aquuKQ&_hsmi=60195704
 - https://www.arangodb.com/2013/03/auto-increment-values-in-arangodb/
+
+## TinkerPop (http://tinkerpop.apache.org/) and the graph systems built on it
