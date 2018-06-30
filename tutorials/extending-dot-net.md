@@ -4,8 +4,9 @@
 - [A Toolkit for building LINQ IQueryable providers](https://github.com/mattwar/iqtoolkit)
 - [Expression Trees](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/expression-trees/)
 - [Walkthrough: Creating an IQueryable LINQ Provider](https://msdn.microsoft.com/en-us/library/bb546158.aspx)
-- Relinq: https://github.com/re-motion/Relinq
+- Relinq: https://github.com/re-motion/Relinq 
     - [A General Purpose LINQ Foundation](https://www.re-motion.org/download/re-linq.pdf)
+    - [re-linq|ishing the Pain: Using re-linq to Implement a Powerful LINQ Provider on the Example of NHibernate](https://www.codeproject.com/Articles/42059/re-linq-ishing-the-Pain-Using-re-linq-to-Implement)
     - [re-linq: Extensibility: Custom query operators](https://www.re-motion.org/blogs/mix/2010/10/28/re-linq-extensibility-custom-query-operators/)
     - https://www.re-motion.org/blogs/mix/2011/12/20/re-linq-how-to-recognize-if-a-method-is-a-query-operator/
     - [re-linq: Subquery boundaries after GroupBy, Union, and similar operators?](https://www.re-motion.org/blogs/mix/category/re-linq)
