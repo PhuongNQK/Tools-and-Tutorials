@@ -1,8 +1,11 @@
-# Designing APIs
+# Designing APIs and Communication Mechanism
 ## REST APIs
 - Naming conventions:
     - https://restfulapi.net/resource-naming/
     - https://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/
+
+## Streaming broker
+- Kafka vs. RabbitMQ: https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka
 
 # Designing Apps
 ## Principles
