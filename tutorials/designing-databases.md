@@ -29,3 +29,6 @@ https://neo4j.com/developer/graph-db-vs-rdbms/
 - https://www.arangodb.com/2013/03/auto-increment-values-in-arangodb/
 
 ## TinkerPop (http://tinkerpop.apache.org/) and the graph systems built on it
+
+## Postgres
+- Instant high-performance GraphQL API for your PostgreSQL database: https://github.com/graphile/postgraphile
