@@ -25,6 +25,7 @@ Utilize abstraction layers for flexibility. E.g.
 - SPI: https://www.developer.com/java/article.php/3848881/Service-Provider-Interface-Creating-Extensible-Java-Applications.htm
 - DDD: https://cemicrosoft.wordpress.com/2013/08/05/domain-oriented-n-layer-architecture/
 - Microservices & DevOps: https://www.red-gate.com/blog/database-devops/thinking-microservices-need-devops-first-nebbia?utm_source=simpletalk&utm_medium=pubemail&utm_content=20180417-slota3&utm_term=simpletalkmain
+- Future Thinking design: https://www.oecd.org/site/schoolingfortomorrowknowledgebase/futuresthinking/overviewofmethodologies.htm
 
 ## Templates
 - ASP.NET Boilerplate:
