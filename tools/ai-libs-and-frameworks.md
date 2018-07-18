@@ -40,6 +40,7 @@ ZoomData
 - GATE: https://gate.ac.uk/
 - Text and Data Analytics: http://www.sintelix.com/
 - Natural Language Processing (language / sentence detection, topic modelling, entity / attribute extraction, classification, sentiment analysis, etc.): 
+    - https://cloud.google.com/natural-language/
     - http://www.opener-project.eu/
     - OpenNLP: https://opennlp.apache.org/
     - Spacy: 
