@@ -9,6 +9,11 @@
 
 # Designing Apps
 ## Principles
+Define your business model
+- What do you want to sell?
+- What is your processing stack and the level of customisability?
+    - Data analytic: https://www.forbes.com/sites/danwoods/2017/10/31/leveraging-analytics-stacks-how-the-clickfox-platform-supports-all-levels-of-productization/#783f954a7623
+
 [Creating Truly Modular Code with No Dependencies](https://www.toptal.com/software/creating-modular-code-with-no-dependencies?utm_campaign=blog_post_creating_modular_code_with_no_dependencies&utm_medium=email&utm_source=blog_subscribers&utm_campaign=Toptal%20Engineering%20Blog&utm_source=hs_email&utm_medium=email&utm_content=56572931&_hsenc=p2ANqtz-9Eul1wY5UWzCGl9MdOsxz1kWuWphbXURUx6JST-lwufzmv6pn733g2aY9W4FH12EgOpLKbp30aYA3K-SBjllv356vCww&_hsmi=56572931)
 
 Should that be a Microservice?
