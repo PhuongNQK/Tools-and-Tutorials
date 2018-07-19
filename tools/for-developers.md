@@ -1,3 +1,7 @@
+# Environment / Dependency / Package manager
+- Anaconda Cloud: https://anaconda.org/
+- Anaconda: https://conda.io/docs/index.html
+
 # IDE & extensions
 Visual Studio IDE:
 - https://www.visualstudio.com/
