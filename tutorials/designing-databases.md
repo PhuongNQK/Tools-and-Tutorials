@@ -6,6 +6,8 @@ https://neo4j.com/developer/graph-db-vs-rdbms/
 - Data Lake: https://www.kdnuggets.com/2018/06/data-lake-evolution-data-processing.html
 
 # Databases
+## AtomSpace (https://github.com/opencog/atomspace)
+
 ## Ignite (https://ignite.apache.org/)
 - Getting Started
   - [Hello World](https://dzone.com/articles/getting-started-with-apache-ignite?fromrel=true)
@@ -29,6 +31,8 @@ https://neo4j.com/developer/graph-db-vs-rdbms/
 - https://www.arangodb.com/2013/03/auto-increment-values-in-arangodb/
 
 ## TinkerPop (http://tinkerpop.apache.org/) and the graph systems built on it
+
+## Apache Giraph (http://giraph.apache.org/)
 
 ## Postgres
 - Instant high-performance GraphQL API for your PostgreSQL database: https://github.com/graphile/postgraphile
