@@ -12,3 +12,8 @@ https://www.digitalocean.com/community/tutorials/how-to-share-data-between-docke
 # Dockerize frontend apps
 React: https://medium.com/ai2-blog/dockerizing-a-react-application-3563688a2378 \
 Angular 4: https://github.com/avatsaev/angular4-docker-example/blob/master/Dockerfile
+
+# Dockerize webapps
+- SpringBoot with embedded Tomcat:
+    + https://spring.io/guides/gs/spring-boot-docker/
+    + https://dzone.com/articles/spring-boot-embedded-tomcat-example
