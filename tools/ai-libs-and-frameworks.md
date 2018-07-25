@@ -42,11 +42,16 @@ ZoomData
 - Natural Language Processing (language / sentence detection, topic modelling, entity / attribute extraction, classification, sentiment analysis, etc.): 
     - https://cloud.google.com/natural-language/
     - http://www.opener-project.eu/
-    - OpenNLP: https://opennlp.apache.org/
+    - OpenNLP: https://opennlp.apache.org/    
+        - https://www.tutorialkart.com/opennlp/training-of-document-categorizer-using-naive-bayes-algorithm-in-opennlp/
     - Spacy: 
         - https://spacy.io/, https://spacy.io/usage/linguistic-features
         - https://www.kdnuggets.com/2018/05/getting-started-spacy-natural-language-processing.html
-        - Spacy vs. Standford NER / LingPipe / NLTK: http://www.aclweb.org/anthology/W16-2703
+        - Spacy vs. Standford NER / LingPipe / NLTK: http://www.aclweb.org/anthology/W16-2703        
+    - Relation extraction:
+        - Standford Relation Extractor: https://nlp.stanford.edu/software/relationExtractor.shtml
+        - Standford CoreNLP - CorefAnnotator: https://stanfordnlp.github.io/CoreNLP/coref.html
+        - Neural Coref: https://github.com/huggingface/neuralcoref
     - Topic modelling:
         - https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730
         - https://github.com/lda-project/lda, http://lda.readthedocs.io/en/latest/
