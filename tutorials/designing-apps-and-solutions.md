@@ -36,6 +36,7 @@ Utilize abstraction layers for flexibility. E.g.
 - ASP.NET Boilerplate:
     - https://aspnetboilerplate.com/
     - https://github.com/aspnetzero/documents
+- A frontend Framework for building admin applications running in the browser on top of REST services, using ES6, React and Material Design: https://marmelab.com/admin-on-rest/
 
 ## Samples
 - Calling RESTful APIs in Unity3D: https://www.red-gate.com/simple-talk/dotnet/c-programming/calling-restful-apis-unity3d/?utm_source=simpletalk&utm_medium=pubemail&utm_content=20180417-slota2&utm_term=simpletalkmain
