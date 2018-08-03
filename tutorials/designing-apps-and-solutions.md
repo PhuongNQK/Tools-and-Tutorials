@@ -60,6 +60,7 @@ Utilize abstraction layers for flexibility. E.g.
     - Play with GraphQL: https://launchpad.graphql.com/1jzxrj179
     - Getting Started with GraphQL and Spring Boot: http://www.baeldung.com/spring-graphql
     - GraphQL Java implementation: https://github.com/graphql-java/graphql-java
+    - Hide Elastic Search REST API behind GraphQL: https://github.com/graphql-compose/graphql-compose-elasticsearch
 
 # Common App Frameworks
 - Java SpringBoot
