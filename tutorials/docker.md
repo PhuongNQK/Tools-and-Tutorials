@@ -18,3 +18,7 @@ Angular: https://www.slideshare.net/johnpapa/optimizing-and-deploying-angular
 - SpringBoot with embedded Tomcat:
     + https://spring.io/guides/gs/spring-boot-docker/
     + https://dzone.com/articles/spring-boot-embedded-tomcat-example
+
+# Kubernetes
+- Tutorial : Getting Started with Kubernetes on your Windows Laptop with Minikube: https://rominirani.com/tutorial-getting-started-with-kubernetes-on-your-windows-laptop-with-minikube-3269b54a226
+- Running your own Docker containers in Minikube for Windows: https://medium.com/@maumribeiro/running-your-own-docker-images-in-minikube-for-windows-ea7383d931f6
