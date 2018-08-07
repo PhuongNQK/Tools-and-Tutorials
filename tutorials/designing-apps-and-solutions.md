@@ -62,6 +62,11 @@ Utilize abstraction layers for flexibility. E.g.
     - GraphQL Java implementation: https://github.com/graphql-java/graphql-java
     - Hide Elastic Search REST API behind GraphQL: https://github.com/graphql-compose/graphql-compose-elasticsearch
 
+## Scalability and High Availability
+- Lessons learned:
+    - How do large Web sites handle the load of millions of visitors a day? https://computer.howstuffworks.com/internet/basics/question342.htm
+    - How I built an app with 500,000 users in 5 days on a $100/month server? https://medium.com/unboxd/how-i-built-an-app-with-500-000-users-in-5-days-on-a-100-server-77deeb238e83
+
 # Common App Frameworks
 - Java SpringBoot
 - ASP.NET Core 
