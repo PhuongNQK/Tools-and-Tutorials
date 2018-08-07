@@ -20,5 +20,7 @@ Angular: https://www.slideshare.net/johnpapa/optimizing-and-deploying-angular
     + https://dzone.com/articles/spring-boot-embedded-tomcat-example
 
 # Kubernetes
+- Intro to Kubernetes: https://www.xoriant.com/blog/cloud-infrastructure/introduction-kubernetes.html
+- Introduction to Kubernetes Building Blocks: https://www.xoriant.com/blog/cloud-infrastructure/introduction-kubernetes-building-blocks.html
 - Tutorial : Getting Started with Kubernetes on your Windows Laptop with Minikube: https://rominirani.com/tutorial-getting-started-with-kubernetes-on-your-windows-laptop-with-minikube-3269b54a226
 - Running your own Docker containers in Minikube for Windows: https://medium.com/@maumribeiro/running-your-own-docker-images-in-minikube-for-windows-ea7383d931f6
