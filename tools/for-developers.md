@@ -16,6 +16,8 @@ IntelliJ IDEA:
 
 [Code::Blocks - The open source, cross platform, free C, C++ and Fortran IDE](http://www.codeblocks.org/)
 
+Top 5 Python IDEs For Data Science: https://www.datacamp.com/community/tutorials/data-science-python-ide
+
 # Code reviewing tools
 SonarQube: 
 - https://www.sonarqube.org/
