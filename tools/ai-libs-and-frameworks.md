@@ -36,9 +36,13 @@ Malong
 ZoomData
 - https://www.zoomdata.com
 
+# Structured data engineering
+- SQL & R-based cloud analytic platform: https://www.cluvio.com
+
 # Text engineering
 - GATE: https://gate.ac.uk/
 - Text and Data Analytics: http://www.sintelix.com/
+- Linking Text and Knowledge Graphs to Deliver Actionable Insights: https://ontotext.com
 - Natural Language Processing (language / sentence detection, topic modelling, entity / attribute extraction, classification, sentiment analysis, etc.): 
     - https://cloud.google.com/natural-language/
     - http://www.opener-project.eu/
