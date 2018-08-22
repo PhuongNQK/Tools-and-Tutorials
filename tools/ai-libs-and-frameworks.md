@@ -91,3 +91,6 @@ Feature tool
 
 # Object / image detection
 - Machinebox: https://towardsdatascience.com/launch-with-ai-in-1-week-a4f4f45cc177
+
+# Data training tool
+- Prodigy - An annotation tool powered by active learning: https://prodi.gy
