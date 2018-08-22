@@ -1,3 +1,6 @@
+# Designing classes
+- Generic Command pattern: https://www.cuttingedge.it/blogs/steven/pivot/entry.php?id=91
+
 # Designing APIs and Communication Mechanism
 ## REST APIs
 - Naming conventions:
