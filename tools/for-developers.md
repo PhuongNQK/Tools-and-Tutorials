@@ -36,3 +36,7 @@ SonarQube:
   + Right-click menu item to open HTML files in a browser: [Open in Browser from TechER](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)
   + View generated PDF: [vscode-pdf from tomoki1207](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
 - [Notepad++](https://notepad-plus-plus.org/) 
+
+# For web designers
+## CSS
+- http://www.alanhart.co.uk/tools/compare-css.php
