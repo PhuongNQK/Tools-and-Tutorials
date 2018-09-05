@@ -40,3 +40,7 @@ SonarQube:
 # For web designers
 ## CSS
 - http://www.alanhart.co.uk/tools/compare-css.php
+
+# For frontend developers
+- Webpack: https://medium.com/ag-grid/webpack-tutorial-understanding-how-it-works-f73dfa164f01
+- Angular + Webpack: https://medium.com/@jeff.boothe/angular-cli-meets-webpack-7c9b1a1e1e89
