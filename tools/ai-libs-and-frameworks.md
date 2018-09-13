@@ -64,6 +64,7 @@ ZoomData
     - Entity extraction:
     - Entity attribute extraction:
         - http://www.sersc.org/journals/IJDTA/vol9_no5/19.pdf
+        - AllenNLP: https://allennlp.org/models
     - Classifying:
         - Fake news: https://blog.machinebox.io/detect-fake-news-by-building-your-own-classifier-31e516418b1d
         - Spam detector: https://blog.machinebox.io/how-to-train-a-spam-detector-with-a-97-accuracy-with-machine-box-5e42243518ab
