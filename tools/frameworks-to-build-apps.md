@@ -9,6 +9,11 @@
 - Blockly: https://developers.google.com/blockly/
 
 # Game
+## Collections:
 - Collection of JS game engines: https://github.com/collections/javascript-game-engines
+- 20 JavaScript Engines for Building Games on the Web 2018: https://colorlib.com/wp/javascript-engines-for-building-games/
+
+## Specific platforms:
 - https://html5gameengine.com/
 - Phaser: https://phaser.io/
+- MelonJS: http://melonjs.org/
