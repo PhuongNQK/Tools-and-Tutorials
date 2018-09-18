@@ -17,3 +17,7 @@
 - https://html5gameengine.com/
 - Phaser: https://phaser.io/
 - MelonJS: http://melonjs.org/
+
+# For kids
+- Kahoot: https://kahoot.com/what-is-kahoot/
+- Scratch: https://beta.scratch.mit.edu/
