@@ -70,6 +70,7 @@ Utilize abstraction layers for flexibility. E.g.
 - Lessons learned:
     - How do large Web sites handle the load of millions of visitors a day? https://computer.howstuffworks.com/internet/basics/question342.htm
     - How I built an app with 500,000 users in 5 days on a $100/month server? https://medium.com/unboxd/how-i-built-an-app-with-500-000-users-in-5-days-on-a-100-server-77deeb238e83
+    - Cloud-native architecture with serverless microservices — the Smart Parking story: https://cloudplatform.googleblog.com/2018/04/Cloud-native-architecture-with-serverless-microservices-the-Smart-Parking-story.html
 
 # Common App Frameworks
 - Java SpringBoot
