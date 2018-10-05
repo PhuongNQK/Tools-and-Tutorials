@@ -7,6 +7,7 @@
 # Entity Resolution
 General
 - https://www.slideshare.net/neo4j/will-lyon-entity-resolution
+- https://medium.com/jeffjonas/to-know-entity-resolution-is-to-love-entity-resolution-3e4953183e4b
 Duke
 - https://github.com/larsga/Duke
 - https://www.slideshare.net/larsga/linking-data-without-common-identifiers
@@ -19,6 +20,7 @@ Dedupe.io
 - https://github.com/dedupeio/dedupe
 - http://www.cs.utexas.edu/~ml/papers/marlin-dissertation-06.pdf
 - https://github.com/dedupeio/dedupe-examples
+- https://medium.com/district-data-labs/basics-of-entity-resolution-with-python-and-dedupe-bc87440b64d4
 
 # Data Reconciliation
 esProc
