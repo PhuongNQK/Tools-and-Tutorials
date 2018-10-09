@@ -44,3 +44,9 @@ SonarQube:
 # For frontend developers
 - Webpack: https://medium.com/ag-grid/webpack-tutorial-understanding-how-it-works-f73dfa164f01
 - Angular + Webpack: https://medium.com/@jeff.boothe/angular-cli-meets-webpack-7c9b1a1e1e89
+- Material Design:
+    + https://material.io/
+    + For Angular: https://material.angular.io/
+    + For React: https://material-ui.com/
+    + For Bootstrap: https://fezvrasta.github.io/bootstrap-material-design/docs/4.0/getting-started/introduction/
+    + For Bootstrap / Angular / React / Vue: https://mdbootstrap.com/
