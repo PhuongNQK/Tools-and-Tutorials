@@ -29,6 +29,7 @@ esProc
 
 # Search
 - https://www.searchtechnologies.com/blog/why-big-data-needs-search
+- Fusion Server is a highly scalable search engine and NoSQL datastore that gives you instant access to all your data: https://lucidworks.com/products/fusion-server/
 
 # Visual Search
 Malong
@@ -47,6 +48,7 @@ ZoomData
 - Linking Text and Knowledge Graphs to Deliver Actionable Insights: https://ontotext.com
 - Natural Language Processing (language / sentence detection, topic modelling, entity / attribute extraction, classification, sentiment analysis, etc.): 
     - https://cloud.google.com/natural-language/
+    - CoreNLP, NLTK, TextBlob, Gensim, Spacy: https://towardsdatascience.com/5-heroic-tools-for-natural-language-processing-7f3c1f8fc9f0
     - http://www.opener-project.eu/
     - OpenNLP: https://opennlp.apache.org/    
         - https://www.tutorialkart.com/opennlp/training-of-document-categorizer-using-naive-bayes-algorithm-in-opennlp/
