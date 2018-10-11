@@ -76,4 +76,5 @@ Utilize abstraction layers for flexibility. E.g.
 - Java SpringBoot
 - ASP.NET Core 
 
-
+# Virality
+- https://www.appsterhq.com/blog/build-viral-apps/
