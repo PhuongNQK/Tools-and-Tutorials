@@ -44,6 +44,7 @@ SonarQube:
 # For frontend developers
 - Webpack: https://medium.com/ag-grid/webpack-tutorial-understanding-how-it-works-f73dfa164f01
 - Angular + Webpack: https://medium.com/@jeff.boothe/angular-cli-meets-webpack-7c9b1a1e1e89
+- Component interaction in Angular: https://www.codementor.io/kevinfarst/component-interaction-in-angular-7e989tlem
 - Material Design:
     + https://material.io/
     + For Angular: https://material.angular.io/
