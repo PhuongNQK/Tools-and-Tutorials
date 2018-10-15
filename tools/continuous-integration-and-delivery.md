@@ -1,4 +1,5 @@
 # CI/CD solutions
+- What is CI/CD: https://dzone.com/articles/what-is-cicd
 - Jenkins: http://jenkins.io/
 - Jenkins X: 
   - http://jenkins-x.io/
