@@ -48,6 +48,7 @@ SonarQube:
     + Component interaction in Angular: https://www.codementor.io/kevinfarst/component-interaction-in-angular-7e989tlem
     + Angular cheatsheet: https://www.cheatography.com//gregfinzer/cheat-sheets/angular-2/pdf/
     + https://angular-templates.io/tutorials/about/learn-angular-from-scratch-step-by-step 
+    + https://medium.com/@cyrilletuzi/understanding-angular-modules-ngmodule-and-their-scopes-81e4ed6f7407
 - Material Design:
     + https://material.io/
     + For Angular: https://material.angular.io/
