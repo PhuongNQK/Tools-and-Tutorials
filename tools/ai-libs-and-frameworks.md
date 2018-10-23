@@ -22,6 +22,12 @@ Dedupe.io
 - https://github.com/dedupeio/dedupe-examples
 - https://medium.com/district-data-labs/basics-of-entity-resolution-with-python-and-dedupe-bc87440b64d4
 
+# Document Resolution (i.e. Document Duplication Detection)
+- Detection of near-duplicate documents: http://d3s.mff.cuni.cz/~holub/sw/shash/
+- http://rnowling.github.io/software/engineering/2016/03/18/optimizing-duplicate-document-detection-in-apache-spark.html
+- https://www.slideshare.net/kirar/tutorial-4-duplicate-detection
+- Effective and Fast Near Duplicate Detection via Signature-Based Compression Metrics: https://www.hindawi.com/journals/mpe/2016/3919043/
+
 # Data Reconciliation
 esProc
 - https://dzone.com/articles/comparing-and-reorganizing-data-with-esproc?fromrel=true
