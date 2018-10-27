@@ -49,6 +49,8 @@ SonarQube:
     + Angular cheatsheet: https://www.cheatography.com//gregfinzer/cheat-sheets/angular-2/pdf/
     + https://angular-templates.io/tutorials/about/learn-angular-from-scratch-step-by-step 
     + https://medium.com/@cyrilletuzi/understanding-angular-modules-ngmodule-and-their-scopes-81e4ed6f7407
+    + Build your 1st Angular website: https://scotch.io/courses/build-your-first-angular-website/introduction
+    + Building an App from Scratch with Angular and Webpack: https://www.twilio.com/blog/2018/03/building-an-app-from-scratch-with-angular-and-webpack.html
 - Material Design:
     + https://material.io/
     + For Angular: https://material.angular.io/
