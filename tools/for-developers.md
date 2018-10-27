@@ -55,5 +55,8 @@ SonarQube:
     + For React: https://material-ui.com/
     + For Bootstrap: https://fezvrasta.github.io/bootstrap-material-design/docs/4.0/getting-started/introduction/
     + For Bootstrap / Angular / React / Vue: https://mdbootstrap.com/
-- Performance evaluator:
-    + https://testmysite.thinkwithgoogle.com/
+- Performance optimization:
+    + Evaluation tool: https://testmysite.thinkwithgoogle.com/
+    + Tips: https://hackernoon.com/optimising-your-application-bundle-size-with-webpack-e85b00bab579
+    + AMP - Tool to develop: https://www.ampproject.org/learn/overview/
+    + Create an effective mobile site: https://support.google.com/google-ads/answer/2549057
