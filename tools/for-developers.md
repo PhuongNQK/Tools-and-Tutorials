@@ -58,5 +58,6 @@ SonarQube:
 - Performance optimization:
     + Evaluation tool: https://testmysite.thinkwithgoogle.com/
     + Tips: https://hackernoon.com/optimising-your-application-bundle-size-with-webpack-e85b00bab579
+    + Use AMP: https://support.google.com/google-ads/answer/7384020?utm_source=amptms&utm_medium=referral&utm_campaign=tmsamp&_ga=2.185332650.2097388107.1540604110-1677011756.1540604110
     + AMP - Tool to develop: https://www.ampproject.org/learn/overview/
     + Create an effective mobile site: https://support.google.com/google-ads/answer/2549057
