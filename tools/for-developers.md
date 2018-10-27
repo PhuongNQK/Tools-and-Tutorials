@@ -55,3 +55,5 @@ SonarQube:
     + For React: https://material-ui.com/
     + For Bootstrap: https://fezvrasta.github.io/bootstrap-material-design/docs/4.0/getting-started/introduction/
     + For Bootstrap / Angular / React / Vue: https://mdbootstrap.com/
+- Performance evaluator:
+    + https://testmysite.thinkwithgoogle.com/
