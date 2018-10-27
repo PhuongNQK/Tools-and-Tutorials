@@ -57,16 +57,19 @@ SonarQube:
     + For Bootstrap / Angular / React / Vue: https://mdbootstrap.com/
 - Performance optimization:
     + Evaluation tool: https://testmysite.thinkwithgoogle.com/
-    + Analyze bundle size with Angular CLI and Webpack: https://coryrylan.com/blog/analyzing-bundle-size-with-the-angular-cli-and-webpack
-    + Source map explorer: https://www.npmjs.com/package/source-map-explorer
-    + Webpack Bundle Analyzer: https://www.npmjs.com/package/webpack-bundle-analyzer
-    + Optimize app bundle size with Webpack: https://hackernoon.com/optimising-your-application-bundle-size-with-webpack-e85b00bab579
+    + Analyze bundle size with:
+        - Angular CLI and Webpack: https://coryrylan.com/blog/analyzing-bundle-size-with-the-angular-cli-and-webpack
+        - Source map explorer: https://www.npmjs.com/package/source-map-explorer
+        - Webpack Bundle Analyzer: https://www.npmjs.com/package/webpack-bundle-analyzer
+    + Optimize app bundle size with:
+        - Webpack: https://hackernoon.com/optimising-your-application-bundle-size-with-webpack-e85b00bab579
+        - A Dirty Webpack Trick That Reduced Our gzipped Bundle Size by 55KB: https://dzone.com/articles/a-dirty-webpack-trick-that-reduced-our-gzipped-bun
+        - Compress requests / responses: https://codeforgeek.com/2017/05/lossless-compression-http-request-response-nodejs-server-4013/
     + Optimize Angular app load performance: https://medium.com/grano/optimizing-angular-application-load-performance-6bb796b1a7c1    
     + Understanding webpack’s affair with the Angular CLI: https://hackernoon.com/webpack-for-angular-developers-c8584a60e627
     + Use AMP: https://support.google.com/google-ads/answer/7384020?utm_source=amptms&utm_medium=referral&utm_campaign=tmsamp&_ga=2.185332650.2097388107.1540604110-1677011756.1540604110
     + AMP - Tool to develop: https://www.ampproject.org/learn/overview/
-    + Create an effective mobile site: https://support.google.com/google-ads/answer/2549057
-    
+    + Create an effective mobile site: https://support.google.com/google-ads/answer/2549057    
 - NodeJS Web server:
     + http-server: https://www.npmjs.com/package/http-server
     + serve: https://www.npmjs.com/package/serve
