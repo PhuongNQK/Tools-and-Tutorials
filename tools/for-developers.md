@@ -42,7 +42,9 @@ SonarQube:
 - http://www.alanhart.co.uk/tools/compare-css.php
 
 # For frontend developers
-- Webpack: https://medium.com/ag-grid/webpack-tutorial-understanding-how-it-works-f73dfa164f01
+- Webpack: 
+    + https://medium.com/ag-grid/webpack-tutorial-understanding-how-it-works-f73dfa164f01
+    + https://hackernoon.com/an-angular-2-webpack-setup-for-development-and-production-3ea8bcc35e24
 - Angular
     + Webpack: https://medium.com/@jeff.boothe/angular-cli-meets-webpack-7c9b1a1e1e89
     + Component interaction in Angular: https://www.codementor.io/kevinfarst/component-interaction-in-angular-7e989tlem
@@ -75,6 +77,7 @@ SonarQube:
 - NodeJS Web server:
     + http-server: https://www.npmjs.com/package/http-server
     + serve: https://www.npmjs.com/package/serve
+    + https://blog.cloudboost.io/run-your-angular-app-on-nodejs-c89f1e99ddd3
     
     
     
