@@ -24,3 +24,8 @@ Angular: https://www.slideshare.net/johnpapa/optimizing-and-deploying-angular
 - Introduction to Kubernetes Building Blocks: https://www.xoriant.com/blog/cloud-infrastructure/introduction-kubernetes-building-blocks.html
 - Tutorial : Getting Started with Kubernetes on your Windows Laptop with Minikube: https://rominirani.com/tutorial-getting-started-with-kubernetes-on-your-windows-laptop-with-minikube-3269b54a226
 - Running your own Docker containers in Minikube for Windows: https://medium.com/@maumribeiro/running-your-own-docker-images-in-minikube-for-windows-ea7383d931f6
+
+# Optimization
+- Python image: 
+    + https://github.com/jfloff/alpine-python
+    + https://blog.realkinetic.com/building-minimal-docker-containers-for-python-applications-37d0272c52f3
