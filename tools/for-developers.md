@@ -82,5 +82,32 @@ SonarQube:
     + serve: https://www.npmjs.com/package/serve
     + https://blog.cloudboost.io/run-your-angular-app-on-nodejs-c89f1e99ddd3
     
+# App Development Lifecycle
+Rule: Optmize every step
+
+## Implement
+### Code
+- General editing
+- Using a specific framework (for a specific app type)
+    + Configure:
+        - Spring Boot: https://www.callicoder.com/configuring-spring-boot-application/
+- Manage project dependencies
+
+### Test
+
+### Refactor (depending on language, app type and app framework)
+- Optimize performance
+    + Web app:
+        - Minimize responses:
+            + SpringBoot: https://www.javainuse.com/spring/boot-zip
     
-    
+## Run
+### Build (Language-specific)
+- For production:
+    + Python: https://github.com/liftoff/pyminifier
+
+### Package
+- Securing our product:
+    + Docker: https://stackoverflow.com/questions/26006727/encrypted-and-secure-docker-containers
+
+### Deploy
