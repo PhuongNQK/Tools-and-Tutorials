@@ -68,7 +68,10 @@ SonarQube:
     + Optimize app bundle size with:
         - Webpack: https://hackernoon.com/optimising-your-application-bundle-size-with-webpack-e85b00bab579
         - A Dirty Webpack Trick That Reduced Our gzipped Bundle Size by 55KB: https://dzone.com/articles/a-dirty-webpack-trick-that-reduced-our-gzipped-bun
-        - Compress requests / responses: https://codeforgeek.com/2017/05/lossless-compression-http-request-response-nodejs-server-4013/
+        - Compress requests / responses: 
+            + https://codeforgeek.com/2017/05/lossless-compression-http-request-response-nodejs-server-4013/
+            + https://betterexplained.com/articles/how-to-optimize-your-site-with-gzip-compression/
+            + Online Gzipper: http://www.txtwizard.net/compression
     + Optimize Angular app load performance: https://medium.com/grano/optimizing-angular-application-load-performance-6bb796b1a7c1    
     + Understanding webpack’s affair with the Angular CLI: https://hackernoon.com/webpack-for-angular-developers-c8584a60e627
     + Use AMP: https://support.google.com/google-ads/answer/7384020?utm_source=amptms&utm_medium=referral&utm_campaign=tmsamp&_ga=2.185332650.2097388107.1540604110-1677011756.1540604110
