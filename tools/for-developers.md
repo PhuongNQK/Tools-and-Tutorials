@@ -92,6 +92,8 @@ Rule: Optmize every step
     + Configure:
         - Spring Boot: https://www.callicoder.com/configuring-spring-boot-application/
 - Manage project dependencies
+- Project code generator: 
+    + JHipster: https://www.jhipster.tech/
 
 ### Test
 
@@ -107,7 +109,10 @@ Rule: Optmize every step
     + Python: https://github.com/liftoff/pyminifier
 
 ### Package
+- Store our package in repository:
+    + Docker repository - Portus: http://port.us.org/
 - Securing our product:
     + Docker: https://stackoverflow.com/questions/26006727/encrypted-and-secure-docker-containers
 
 ### Deploy
+- Kontena: https://www.kontena.io/
