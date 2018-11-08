@@ -36,3 +36,4 @@ https://neo4j.com/developer/graph-db-vs-rdbms/
 
 ## Postgres
 - Instant high-performance GraphQL API for your PostgreSQL database: https://github.com/graphile/postgraphile
+- Tutorials: https://chartio.com/resources/tutorials/how-to-define-an-auto-increment-primary-key-in-postgresql/
