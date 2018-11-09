@@ -111,8 +111,10 @@ Rule: Optmize every step
 ### Package
 - Store our package in repository:
     + Docker repository - Portus: http://port.us.org/
+    + Harbor: https://github.com/goharbor/harbor
 - Securing our product:
     + Docker: https://stackoverflow.com/questions/26006727/encrypted-and-secure-docker-containers
 
 ### Deploy
 - Kontena: https://www.kontena.io/
+- Puppet: https://puppet.com/
