@@ -61,6 +61,7 @@ SonarQube:
     + For Bootstrap / Angular / React / Vue: https://mdbootstrap.com/
 - Performance optimization:
     + Evaluation tool: https://testmysite.thinkwithgoogle.com/
+    + All optimizations in one article: https://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/
     + Analyze bundle size with:
         - Angular CLI and Webpack: https://coryrylan.com/blog/analyzing-bundle-size-with-the-angular-cli-and-webpack
         - Source map explorer: https://www.npmjs.com/package/source-map-explorer
