@@ -79,6 +79,8 @@ ZoomData
         - Fake news: https://blog.machinebox.io/detect-fake-news-by-building-your-own-classifier-31e516418b1d
         - Spam detector: https://blog.machinebox.io/how-to-train-a-spam-detector-with-a-97-accuracy-with-machine-box-5e42243518ab
         - Sentiment analysis
+        - https://medium.com/tensorflow/building-a-text-classification-model-with-tensorflow-hub-and-estimators-3169e7aa568
+        - 
 - Semantic Text Analytics as a service: https://dandelion.eu/
 - Tutorials:
   + NLP Key Terms Explained: https://www.kdnuggets.com/2017/02/natural-language-processing-key-terms-explained.html
