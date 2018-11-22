@@ -82,7 +82,15 @@ SonarQube:
     + http-server: https://www.npmjs.com/package/http-server
     + serve: https://www.npmjs.com/package/serve
     + https://blog.cloudboost.io/run-your-angular-app-on-nodejs-c89f1e99ddd3
-    
+
+# For data scientists
+- Kaggle: https://www.kaggle.com/
+- Google AI: https://ai.google/education
+- Machine learning crash course: https://developers.google.com/machine-learning/crash-course
+- Colab: https://colab.research.google.com
+- TensorFlow: https://www.tensorflow.org
+- TensorFlow Hub: https://www.tensorflow.org/hub/
+
 # App Development Lifecycle
 Rule: Optmize every step
 
