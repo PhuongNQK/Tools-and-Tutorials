@@ -53,6 +53,7 @@ ZoomData
 - Text and Data Analytics: http://www.sintelix.com/
 - Linking Text and Knowledge Graphs to Deliver Actionable Insights: https://ontotext.com
 - Natural Language Processing (language / sentence detection, topic modelling, entity / attribute extraction, classification, sentiment analysis, etc.): 
+    - Web mining suite: https://www.clips.uantwerpen.be/pages/pattern
     - https://cloud.google.com/natural-language/
     - CoreNLP, NLTK, TextBlob, Gensim, Spacy: https://towardsdatascience.com/5-heroic-tools-for-natural-language-processing-7f3c1f8fc9f0
     - http://www.opener-project.eu/
