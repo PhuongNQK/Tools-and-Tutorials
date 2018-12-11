@@ -1,5 +1,11 @@
+# General concepts
+- https://towardsdatascience.com/ontology-and-data-science-45e916288cc5
+
 # Build an AI product
 - https://towardsdatascience.com/launch-with-ai-in-1-week-a4f4f45cc177
+
+# Products
+- https://www.ibm.com/sg-en/marketplace/analysts-notebook
 
 # Machine Learning
 - https://blog.machinebox.io/machine-learning-on-premise-54420d816a22
@@ -53,6 +59,7 @@ ZoomData
 - Text and Data Analytics: http://www.sintelix.com/
 - Linking Text and Knowledge Graphs to Deliver Actionable Insights: https://ontotext.com
 - Natural Language Processing (language / sentence detection, topic modelling, entity / attribute extraction, classification, sentiment analysis, etc.): 
+    - Open Sourcing BERT: State-of-the-Art Pre-training for NLP: https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html?m=1
     - Web mining suite: https://www.clips.uantwerpen.be/pages/pattern
     - https://cloud.google.com/natural-language/
     - CoreNLP, NLTK, TextBlob, Gensim, Spacy: https://towardsdatascience.com/5-heroic-tools-for-natural-language-processing-7f3c1f8fc9f0
@@ -63,6 +70,7 @@ ZoomData
         - https://spacy.io/, https://spacy.io/usage/linguistic-features
         - https://www.kdnuggets.com/2018/05/getting-started-spacy-natural-language-processing.html
         - Spacy vs. Standford NER / LingPipe / NLTK: http://www.aclweb.org/anthology/W16-2703        
+        - Spacy Universe: https://spacy.io/universe/?id=epitator
     - Relation extraction:
         - Standford Relation Extractor: https://nlp.stanford.edu/software/relationExtractor.shtml
         - Standford CoreNLP - CorefAnnotator: https://stanfordnlp.github.io/CoreNLP/coref.html
@@ -81,7 +89,7 @@ ZoomData
         - Spam detector: https://blog.machinebox.io/how-to-train-a-spam-detector-with-a-97-accuracy-with-machine-box-5e42243518ab
         - Sentiment analysis
         - https://medium.com/tensorflow/building-a-text-classification-model-with-tensorflow-hub-and-estimators-3169e7aa568
-        - 
+        - https://www.elastic.co/blog/text-classification-made-easy-with-elasticsearch 
 - Semantic Text Analytics as a service: https://dandelion.eu/
 - Tutorials:
   + NLP Key Terms Explained: https://www.kdnuggets.com/2017/02/natural-language-processing-key-terms-explained.html
@@ -102,6 +110,9 @@ Feature tool
 # BI
 - Hue is an open source Analytics Workbench for self service BI: http://gethue.com/
 - Tableau: https://www.tableau.com/
+
+# Data Visualization
+- https://labs.spotify.com/2018/11/15/introducing-chartify-easier-chart-creation-in-python-for-data-scientists/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20181128+data+nl&mkt_tok=eyJpIjoiTURkbVpHTmlOMlZsTTJaayIsInQiOiJjaHhEMU16ZWtqeWRsZ3dNVDdTQmU2TEJhK1hEOCtCWlVNcnRvSXBNOGx4U3dWQ3p5U1lpWFJtMGxRNXhcLzk4V2RQWEhjRE42REZIdUZtUXdCM1VIckd0a2pWa2NwZGdWTDJTU2R3Yk1DQU1DTWZTbGwzRUlBQWQ2WWVSamdsaDQifQ%3D%3D
 
 # Object / image detection
 - Machinebox: https://towardsdatascience.com/launch-with-ai-in-1-week-a4f4f45cc177
