@@ -7,6 +7,10 @@
 # Products
 - https://www.ibm.com/sg-en/marketplace/analysts-notebook
 
+# Data/web mining 
+Crawlers:
+- https://github.com/gocolly/colly
+
 # Machine Learning
 - https://blog.machinebox.io/machine-learning-on-premise-54420d816a22
 
