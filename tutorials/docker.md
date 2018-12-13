@@ -29,3 +29,5 @@ Angular: https://www.slideshare.net/johnpapa/optimizing-and-deploying-angular
 - Python image: 
     + https://github.com/jfloff/alpine-python
     + https://blog.realkinetic.com/building-minimal-docker-containers-for-python-applications-37d0272c52f3
+- Golang image:
+    + https://blog.codeship.com/building-minimal-docker-containers-for-go-applications/
