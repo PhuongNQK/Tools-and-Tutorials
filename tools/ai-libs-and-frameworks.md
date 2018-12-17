@@ -1,6 +1,16 @@
 # General concepts
 - https://towardsdatascience.com/ontology-and-data-science-45e916288cc5
 
+# Newspapers
+- https://towardsdatascience.com/
+- https://hackernoon.com/how-i-started-with-learning-ai-in-the-last-2-months-251d19b23597
+- https://levelup.gitconnected.com/10-things-to-learn-on-the-way-to-become-a-javascript-master-f4fc632b2bb7
+- https://eng.uber.com/forecasting-introduction/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20181017+data+nl&mkt_tok=eyJpIjoiT0dZd1ptTTBZak5sTnpVNCIsInQiOiJpTlU4YnRPSHVmQUkxVXZhMXordzJiOE9YZVd1WXhKN3UxaHN0VHVwWjgxVm9yZHgzb25GK29FZ015dUZ5b3lQTG9jaldJdVVvUFlJTk5jdyt0SzNBVThqSTRqeVhJVVRxNnF1QWNsUjg4cDBpdGRtOCsxT1RXSnp1cVRMUVZtcyJ9
+- https://medium.freecodecamp.org/essential-libraries-for-machine-learning-in-python-82a9ada57aeb?mkt_tok=eyJpIjoiT0dZd1ptTTBZak5sTnpVNCIsInQiOiJpTlU4YnRPSHVmQUkxVXZhMXordzJiOE9YZVd1WXhKN3UxaHN0VHVwWjgxVm9yZHgzb25GK29FZ015dUZ5b3lQTG9jaldJdVVvUFlJTk5jdyt0SzNBVThqSTRqeVhJVVRxNnF1QWNsUjg4cDBpdGRtOCsxT1RXSnp1cVRMUVZtcyJ9
+- https://medium.com/datadriveninvestor/the-50-best-public-datasets-for-machine-learning-d80e9f030279?mkt_tok=eyJpIjoiT0dZd1ptTTBZak5sTnpVNCIsInQiOiJpTlU4YnRPSHVmQUkxVXZhMXordzJiOE9YZVd1WXhKN3UxaHN0VHVwWjgxVm9yZHgzb25GK29FZ015dUZ5b3lQTG9jaldJdVVvUFlJTk5jdyt0SzNBVThqSTRqeVhJVVRxNnF1QWNsUjg4cDBpdGRtOCsxT1RXSnp1cVRMUVZtcyJ9
+- https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e
+- https://codeburst.io/how-to-build-an-angular-app-with-angular-cli-in-a-couple-of-minutes-43089d3ab272
+
 # Build an AI product
 - https://towardsdatascience.com/launch-with-ai-in-1-week-a4f4f45cc177
 
@@ -63,6 +73,8 @@ ZoomData
 - Text and Data Analytics: http://www.sintelix.com/
 - Linking Text and Knowledge Graphs to Deliver Actionable Insights: https://ontotext.com
 - Natural Language Processing (language / sentence detection, topic modelling, entity / attribute extraction, classification, sentiment analysis, etc.): 
+    - Important breakthroughs:
+        - https://medium.com/explore-artificial-intelligence/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-natural-language-processing-40fe4e8602ba
     - Open Sourcing BERT: State-of-the-Art Pre-training for NLP: https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html?m=1
     - Web mining suite: https://www.clips.uantwerpen.be/pages/pattern
     - https://cloud.google.com/natural-language/
@@ -84,6 +96,8 @@ ZoomData
         - https://github.com/lda-project/lda, http://lda.readthedocs.io/en/latest/
         - https://github.com/rajdeepd/template-Labelling-Topics-with-wikipedia
         - Stanford Topic Modeling Toolbox: https://nlp.stanford.edu/software/tmt/tmt-0.4/
+    - Text summarization:
+        - https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1
     - Entity extraction:
     - Entity attribute extraction:
         - http://www.sersc.org/journals/IJDTA/vol9_no5/19.pdf
@@ -94,6 +108,8 @@ ZoomData
         - Sentiment analysis
         - https://medium.com/tensorflow/building-a-text-classification-model-with-tensorflow-hub-and-estimators-3169e7aa568
         - https://www.elastic.co/blog/text-classification-made-easy-with-elasticsearch 
+        - https://medium.com/jatana/report-on-text-classification-using-cnn-rnn-han-f0e887214d5f
+        - https://towardsdatascience.com/named-entity-recognition-and-classification-with-scikit-learn-f05372f07ba2
 - Semantic Text Analytics as a service: https://dandelion.eu/
 - Tutorials:
   + NLP Key Terms Explained: https://www.kdnuggets.com/2017/02/natural-language-processing-key-terms-explained.html
