@@ -38,6 +38,11 @@ SonarQube:
 - [Notepad++](https://notepad-plus-plus.org/) 
 
 # For web designers
+## Designing principles
+- https://uxplanet.org/10-small-design-mistakes-we-still-make-1cd5f60bc708
+- https://blog.prototypr.io/the-most-important-rule-in-ux-design-that-everyone-breaks-1c1cb188931
+- https://medium.com/startup-grind/how-to-not-suck-at-design-a-5-minute-guide-for-the-non-designer-291efac43037
+
 ## CSS
 - http://www.alanhart.co.uk/tools/compare-css.php
 
