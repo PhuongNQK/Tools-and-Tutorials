@@ -11,6 +11,9 @@
 - https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e
 - https://codeburst.io/how-to-build-an-angular-app-with-angular-cli-in-a-couple-of-minutes-43089d3ab272
 
+# ML Projects
+- https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7
+
 # Build an AI product
 - https://towardsdatascience.com/launch-with-ai-in-1-week-a4f4f45cc177
 
@@ -75,6 +78,7 @@ ZoomData
 - Natural Language Processing (language / sentence detection, topic modelling, entity / attribute extraction, classification, sentiment analysis, etc.): 
     - Important breakthroughs:
         - https://medium.com/explore-artificial-intelligence/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-natural-language-processing-40fe4e8602ba
+        - https://medium.com/dair-ai/hmtl-multi-task-learning-for-state-of-the-art-nlp-245572bbb601
     - Open Sourcing BERT: State-of-the-Art Pre-training for NLP: https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html?m=1
     - Web mining suite: https://www.clips.uantwerpen.be/pages/pattern
     - https://cloud.google.com/natural-language/
