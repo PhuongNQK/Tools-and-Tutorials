@@ -1,5 +1,8 @@
 # General concepts
 - https://towardsdatascience.com/ontology-and-data-science-45e916288cc5
+- https://towardsdatascience.com/how-to-learn-data-science-if-youre-broke-7ecc408b53c7
+- https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/
+- https://towardsdatascience.com/a-deeper-look-into-embeddings-a-linguistic-approach-89cc428a29e7
 
 # Newspapers
 - https://towardsdatascience.com/
@@ -10,6 +13,9 @@
 - https://medium.com/datadriveninvestor/the-50-best-public-datasets-for-machine-learning-d80e9f030279?mkt_tok=eyJpIjoiT0dZd1ptTTBZak5sTnpVNCIsInQiOiJpTlU4YnRPSHVmQUkxVXZhMXordzJiOE9YZVd1WXhKN3UxaHN0VHVwWjgxVm9yZHgzb25GK29FZ015dUZ5b3lQTG9jaldJdVVvUFlJTk5jdyt0SzNBVThqSTRqeVhJVVRxNnF1QWNsUjg4cDBpdGRtOCsxT1RXSnp1cVRMUVZtcyJ9
 - https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e
 - https://codeburst.io/how-to-build-an-angular-app-with-angular-cli-in-a-couple-of-minutes-43089d3ab272
+
+# Cheat sheets
+- https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
 
 # ML Projects
 - https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7
