@@ -52,6 +52,7 @@ SonarQube:
     + https://hackernoon.com/an-angular-2-webpack-setup-for-development-and-production-3ea8bcc35e24
 - Angular
     + https://medium.com/@spp020/44-quick-tips-to-fine-tune-angular-performance-9f5768f5d945
+    + https://blog.angularindepth.com/inside-ivy-exploring-the-new-angular-compiler-ebf85141cee1
     + Webpack: https://medium.com/@jeff.boothe/angular-cli-meets-webpack-7c9b1a1e1e89
     + Component interaction in Angular: https://www.codementor.io/kevinfarst/component-interaction-in-angular-7e989tlem
     + Angular cheatsheet: https://www.cheatography.com//gregfinzer/cheat-sheets/angular-2/pdf/
