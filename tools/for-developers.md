@@ -47,6 +47,7 @@ SonarQube:
 - http://www.alanhart.co.uk/tools/compare-css.php
 
 # For frontend developers
+- Imba/Vanilla are faster than React/Vue: https://codeburst.io/faster-web-c6823830ce72
 - Webpack: 
     + https://medium.com/ag-grid/webpack-tutorial-understanding-how-it-works-f73dfa164f01
     + https://hackernoon.com/an-angular-2-webpack-setup-for-development-and-production-3ea8bcc35e24
@@ -89,6 +90,9 @@ SonarQube:
     + http-server: https://www.npmjs.com/package/http-server
     + serve: https://www.npmjs.com/package/serve
     + https://blog.cloudboost.io/run-your-angular-app-on-nodejs-c89f1e99ddd3
+
+# For network developer
+- Blockade: https://github.com/worstcase/blockade
 
 # For data scientists
 - Kaggle: https://www.kaggle.com/
