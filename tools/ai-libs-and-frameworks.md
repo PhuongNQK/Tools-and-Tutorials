@@ -1,8 +1,11 @@
 # General concepts
+- https://developers.google.com/machine-learning/crash-course/
 - https://towardsdatascience.com/ontology-and-data-science-45e916288cc5
 - https://towardsdatascience.com/how-to-learn-data-science-if-youre-broke-7ecc408b53c7
 - https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/
-- https://towardsdatascience.com/a-deeper-look-into-embeddings-a-linguistic-approach-89cc428a29e7
+- Embeddings: 
+    + https://medium.com/@echen/a-laymans-introduction-to-embeddings-c1beade1b3e7
+    + https://towardsdatascience.com/a-deeper-look-into-embeddings-a-linguistic-approach-89cc428a29e7
 
 # Newspapers
 - https://towardsdatascience.com/
