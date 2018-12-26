@@ -76,6 +76,8 @@ Utilize abstraction layers for flexibility. E.g.
     - How do large Web sites handle the load of millions of visitors a day? https://computer.howstuffworks.com/internet/basics/question342.htm
     - How I built an app with 500,000 users in 5 days on a $100/month server? https://medium.com/unboxd/how-i-built-an-app-with-500-000-users-in-5-days-on-a-100-server-77deeb238e83
     - Cloud-native architecture with serverless microservices — the Smart Parking story: https://cloudplatform.googleblog.com/2018/04/Cloud-native-architecture-with-serverless-microservices-the-Smart-Parking-story.html
+    - https://underthehood.meltwater.com/blog/2018/02/06/running-a-400+-node-es-cluster/
+    - https://medium.appbase.io/benchmarking-elasticsearch-1-million-writes-per-sec-bf37e7ca8a4c
 
 # App Frameworks / Servers / Components
 ## For common purposes
