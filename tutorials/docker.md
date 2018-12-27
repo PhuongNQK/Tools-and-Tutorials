@@ -31,3 +31,7 @@ Angular: https://www.slideshare.net/johnpapa/optimizing-and-deploying-angular
     + https://blog.realkinetic.com/building-minimal-docker-containers-for-python-applications-37d0272c52f3
 - Golang image:
     + https://blog.codeship.com/building-minimal-docker-containers-for-go-applications/
+
+# Useful Docker images
+- Alpine with envsubst: https://github.com/cirocosta/alpine-envsubst
+    + How to use envsubst: https://stackoverflow.com/questions/14155596/how-to-substitute-shell-variables-in-complex-text-files
