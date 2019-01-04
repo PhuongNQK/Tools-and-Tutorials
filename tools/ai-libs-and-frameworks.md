@@ -86,6 +86,7 @@ ZoomData
 - Text and Data Analytics: http://www.sintelix.com/
 - Linking Text and Knowledge Graphs to Deliver Actionable Insights: https://ontotext.com
 - Natural Language Processing (language / sentence detection, topic modelling, entity / attribute extraction, classification, sentiment analysis, etc.): 
+    - Repository to track progress in NER: https://nlpprogress.com/
     - Important breakthroughs:
         - https://medium.com/explore-artificial-intelligence/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-natural-language-processing-40fe4e8602ba
         - https://medium.com/dair-ai/hmtl-multi-task-learning-for-state-of-the-art-nlp-245572bbb601
