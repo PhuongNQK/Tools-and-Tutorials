@@ -37,6 +37,10 @@ Crawlers:
 # Machine Learning
 - https://blog.machinebox.io/machine-learning-on-premise-54420d816a22
 
+# Client-side Machine Learning
+- Brain.js: https://github.com/BrainJS/brain.js
+- TensorFlow JS: https://js.tensorflow.org/
+
 # Entity Resolution
 General
 - https://www.slideshare.net/neo4j/will-lyon-entity-resolution
