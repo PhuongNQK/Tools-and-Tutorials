@@ -104,6 +104,9 @@ SonarQube:
 - TensorFlow: https://www.tensorflow.org
 - TensorFlow Hub: https://www.tensorflow.org/hub/
 
+# For DevOps
+- https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb
+
 # App Development Lifecycle
 Rule: Optmize every step
 
