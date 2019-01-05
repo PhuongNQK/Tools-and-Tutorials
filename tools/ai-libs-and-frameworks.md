@@ -40,6 +40,7 @@ Crawlers:
 # Client-side Machine Learning
 - Brain.js: https://github.com/BrainJS/brain.js
 - TensorFlow JS: https://js.tensorflow.org/
+- Neural network courses: https://scrimba.com/g/gneuralnetworks
 
 # Entity Resolution
 General
