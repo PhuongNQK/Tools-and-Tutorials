@@ -31,8 +31,16 @@
 - https://www.ibm.com/sg-en/marketplace/analysts-notebook
 
 # Data/web mining 
-Crawlers:
+Server-side crawlers:
 - https://github.com/gocolly/colly
+- https://scrapy.org/
+- https://www.octoparse.com/?qu
+- http://nutch.apache.org/
+
+Client-side crawler: 
+- http://medialab.github.io/artoo/quick_start/
+- http://terence.tech/crawler/#intro
+- https://medium.freecodecamp.org/client-side-web-scraping-with-javascript-using-jquery-and-regex-5b57a271cb86
 
 # Machine Learning
 - https://blog.machinebox.io/machine-learning-on-premise-54420d816a22
