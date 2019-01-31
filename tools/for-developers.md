@@ -63,6 +63,8 @@ SonarQube:
     + https://medium.com/@cyrilletuzi/understanding-angular-modules-ngmodule-and-their-scopes-81e4ed6f7407
     + Build your 1st Angular website: https://scotch.io/courses/build-your-first-angular-website/introduction
     + Building an App from Scratch with Angular and Webpack: https://www.twilio.com/blog/2018/03/building-an-app-from-scratch-with-angular-and-webpack.html
+    + Theming Angular App: https://medium.com/swlh/theming-angular-c869827738c3
+    + View Encapsulation in Angular: https://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html
 - Material Design:
     + https://material.io/
     + For Angular: https://material.angular.io/
