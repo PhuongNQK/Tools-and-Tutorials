@@ -29,6 +29,7 @@ Should that be a Microservice?
 - [Keep These Six Factors in Mind](https://content.pivotal.io/blog/should-that-be-a-microservice-keep-these-six-factors-in-mind)
 - [Part 2: Multiple Rates of Change](https://content.pivotal.io/blog/should-that-be-a-microservice-part-2-multiple-rates-of-change?utm_source=pivotal-newsletter&utm_medium=email-link&utm_campaign=external-newsletter&mkt_tok=eyJpIjoiWkRJeE0yTTRPR00wWlRJMiIsInQiOiJ0QmxpNHNFM1JcL3REWDZcL2p5c1dqZlwvWjV3WURJM0NVbzBWckJkR3UwcVZzUnRwRFRJYm1hK0Jld0NKcVdjSEpJMnMwXC9aXC9vYVBadlRyVnRpR1FCRUZBR0x5N1FnY25TaG16UFpKdlRlbUZ4YTdlTURlZmtHU09zK0ZRWUFNZjVyIn0%3D) 
 - [Part 3: Independent Life Cycles](https://content.pivotal.io/blog/should-that-be-a-microservice-part-3-independent-life-cycles)
+- Micro Frontends - How I Built An SPA With Angular And React? https://ivanjov.com/micro-frontends-how-i-built-a-spa-with-angular-and-react/
 
 Utilize abstraction layers for flexibility. E.g.
 - Instead of using Apache Flink / Apache Spark directly, we can use Apache Beam
