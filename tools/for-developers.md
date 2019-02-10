@@ -69,6 +69,7 @@ SonarQube:
     + Introducing to NG-VDOM: A new way to write Angular application: https://blog.angularindepth.com/introducing-to-ng-vdom-a-new-way-to-write-angular-application-60a3be805e59
     + Micro Frontends - How I Built An SPA With Angular And React? https://ivanjov.com/micro-frontends-how-i-built-a-spa-with-angular-and-react/
     + Use <ng-template> - Part 6 of Advanced Angular Component Patterns: https://blog.angularindepth.com/use-ng-template-c72852c37fba
+    + Everything you need to know about <ng-template>, <ng-content>, <ng-container> and *ngTemplateOutlet in Angular: https://medium.freecodecamp.org/everything-you-need-to-know-about-ng-template-ng-content-ng-container-and-ngtemplateoutlet-4b7b51223691 
 - Material Design:
     + https://material.io/
     + For Angular: https://material.angular.io/
