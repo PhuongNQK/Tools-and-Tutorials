@@ -65,6 +65,8 @@ SonarQube:
     + Building an App from Scratch with Angular and Webpack: https://www.twilio.com/blog/2018/03/building-an-app-from-scratch-with-angular-and-webpack.html
     + Theming Angular App: https://medium.com/swlh/theming-angular-c869827738c3
     + View Encapsulation in Angular: https://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html
+    + The mechanics of DOM updates in Angular: https://blog.angularindepth.com/the-mechanics-of-dom-updates-in-angular-3b2970d5c03d
+    + Introducing to NG-VDOM: A new way to write Angular application: https://blog.angularindepth.com/introducing-to-ng-vdom-a-new-way-to-write-angular-application-60a3be805e59
 - Material Design:
     + https://material.io/
     + For Angular: https://material.angular.io/
