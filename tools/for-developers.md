@@ -67,6 +67,7 @@ SonarQube:
     + View Encapsulation in Angular: https://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html
     + The mechanics of DOM updates in Angular: https://blog.angularindepth.com/the-mechanics-of-dom-updates-in-angular-3b2970d5c03d
     + Introducing to NG-VDOM: A new way to write Angular application: https://blog.angularindepth.com/introducing-to-ng-vdom-a-new-way-to-write-angular-application-60a3be805e59
+    + Micro Frontends - How I Built An SPA With Angular And React? https://ivanjov.com/micro-frontends-how-i-built-a-spa-with-angular-and-react/
 - Material Design:
     + https://material.io/
     + For Angular: https://material.angular.io/
