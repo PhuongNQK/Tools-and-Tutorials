@@ -6,6 +6,7 @@
 - Embeddings: 
     + https://medium.com/@echen/a-laymans-introduction-to-embeddings-c1beade1b3e7
     + https://towardsdatascience.com/a-deeper-look-into-embeddings-a-linguistic-approach-89cc428a29e7
+- The Surprising Truth About What it Takes to Build a Machine Learning Product: https://medium.com/thelaunchpad/the-ml-surprise-f54706361a6c
 
 # Newspapers
 - https://towardsdatascience.com/
@@ -140,6 +141,8 @@ ZoomData
         - https://www.elastic.co/blog/text-classification-made-easy-with-elasticsearch 
         - https://medium.com/jatana/report-on-text-classification-using-cnn-rnn-han-f0e887214d5f
         - https://towardsdatascience.com/named-entity-recognition-and-classification-with-scikit-learn-f05372f07ba2
+    - Transferring: 
+        - Zero-shot transfer across 93 languages: Open-sourcing enhanced LASER library: https://code.fb.com/ai-research/laser-multilingual-sentence-embeddings/
 - Semantic Text Analytics as a service: https://dandelion.eu/
 - Tutorials:
   + NLP Key Terms Explained: https://www.kdnuggets.com/2017/02/natural-language-processing-key-terms-explained.html
