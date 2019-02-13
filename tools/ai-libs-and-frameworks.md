@@ -45,6 +45,7 @@ Client-side crawler:
 
 # Machine Learning
 - https://blog.machinebox.io/machine-learning-on-premise-54420d816a22
+- https://github.com/dotnet/machinelearning-samples
 
 # Client-side Machine Learning
 - Brain.js: https://github.com/BrainJS/brain.js
