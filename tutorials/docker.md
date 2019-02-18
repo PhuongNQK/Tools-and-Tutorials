@@ -5,6 +5,7 @@
 
 # Getting started
 https://docs.docker.com/get-started/
+https://www.ibm.com/developerworks/community/blogs/jfp/entry/Using_Docker_Machine_On_Windows?lang=en
 
 # Sharing data between containers
 https://www.digitalocean.com/community/tutorials/how-to-share-data-between-docker-containers
