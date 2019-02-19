@@ -9,6 +9,8 @@
 - The Surprising Truth About What it Takes to Build a Machine Learning Product: https://medium.com/thelaunchpad/the-ml-surprise-f54706361a6c
 
 # Newspapers
+- https://openai.com/research/
+- https://ai.google/
 - https://towardsdatascience.com/
 - https://hackernoon.com/how-i-started-with-learning-ai-in-the-last-2-months-251d19b23597
 - https://levelup.gitconnected.com/10-things-to-learn-on-the-way-to-become-a-javascript-master-f4fc632b2bb7
@@ -16,7 +18,6 @@
 - https://medium.freecodecamp.org/essential-libraries-for-machine-learning-in-python-82a9ada57aeb?mkt_tok=eyJpIjoiT0dZd1ptTTBZak5sTnpVNCIsInQiOiJpTlU4YnRPSHVmQUkxVXZhMXordzJiOE9YZVd1WXhKN3UxaHN0VHVwWjgxVm9yZHgzb25GK29FZ015dUZ5b3lQTG9jaldJdVVvUFlJTk5jdyt0SzNBVThqSTRqeVhJVVRxNnF1QWNsUjg4cDBpdGRtOCsxT1RXSnp1cVRMUVZtcyJ9
 - https://medium.com/datadriveninvestor/the-50-best-public-datasets-for-machine-learning-d80e9f030279?mkt_tok=eyJpIjoiT0dZd1ptTTBZak5sTnpVNCIsInQiOiJpTlU4YnRPSHVmQUkxVXZhMXordzJiOE9YZVd1WXhKN3UxaHN0VHVwWjgxVm9yZHgzb25GK29FZ015dUZ5b3lQTG9jaldJdVVvUFlJTk5jdyt0SzNBVThqSTRqeVhJVVRxNnF1QWNsUjg4cDBpdGRtOCsxT1RXSnp1cVRMUVZtcyJ9
 - https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e
-- https://codeburst.io/how-to-build-an-angular-app-with-angular-cli-in-a-couple-of-minutes-43089d3ab272
 
 # Cheat sheets
 - https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
