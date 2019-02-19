@@ -71,6 +71,7 @@ SonarQube:
     + Use <ng-template> - Part 6 of Advanced Angular Component Patterns: https://blog.angularindepth.com/use-ng-template-c72852c37fba
     + Everything you need to know about <ng-template>, <ng-content>, <ng-container> and *ngTemplateOutlet in Angular: https://medium.freecodecamp.org/everything-you-need-to-know-about-ng-template-ng-content-ng-container-and-ngtemplateoutlet-4b7b51223691 
     + Angular course: https://codecraft.tv/courses/angular/
+    + https://codeburst.io/how-to-build-an-angular-app-with-angular-cli-in-a-couple-of-minutes-43089d3ab272
 - Material Design:
     + https://material.io/
     + For Angular: https://material.angular.io/
