@@ -79,9 +79,10 @@ SonarQube:
     + For Bootstrap: https://fezvrasta.github.io/bootstrap-material-design/docs/4.0/getting-started/introduction/
     + For Bootstrap / Angular / React / Vue: https://mdbootstrap.com/
     + https://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/
-    + https://github.com/mgechev/angular-seed/wiki/Speed-up-the-build-on-Windows
-    + Angular Seed: https://github.com/mgechev/angular-seed, https://mgechev.github.io/angular-seed/
-    + 
+    + Angular Seed: 
+        - https://github.com/mgechev/angular-seed
+        - https://mgechev.github.io/angular-seed/
+        - https://github.com/mgechev/angular-seed/wiki/Speed-up-the-build-on-Windows
 - Performance optimization:
     + Evaluation tool: https://testmysite.thinkwithgoogle.com/
     + All optimizations in one article: https://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/
