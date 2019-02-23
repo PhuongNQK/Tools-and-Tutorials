@@ -37,3 +37,11 @@ https://neo4j.com/developer/graph-db-vs-rdbms/
 ## Postgres
 - Instant high-performance GraphQL API for your PostgreSQL database: https://github.com/graphile/postgraphile
 - Tutorials: https://chartio.com/resources/tutorials/how-to-define-an-auto-increment-primary-key-in-postgresql/
+
+# Common topics
+## How to store hierarchical data in relational database?
+- https://stackoverflow.com/questions/935098/database-structure-for-tree-data-structure
+    + Managing Hierarchical Data in MySQL: http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/
+    + 3 popular patterns to store the tree structures in the RDBMS: https://leopard.in.ua/2013/07/11/storing-trees-in-rdbms#.XHEGkvl96Uk
+    + Hierarchies: Convert Adjacency List to Nested Sets: https://blogs.msdn.microsoft.com/mvpawardprogram/2012/06/25/hierarchies-convert-adjacency-list-to-nested-sets/
+    + Trees and Other Hierarchies in MySQL: http://www.artfulsoftware.com/mysqlbook/sampler/mysqled1ch20.html
