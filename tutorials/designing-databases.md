@@ -45,3 +45,4 @@ https://neo4j.com/developer/graph-db-vs-rdbms/
     + 3 popular patterns to store the tree structures in the RDBMS: https://leopard.in.ua/2013/07/11/storing-trees-in-rdbms#.XHEGkvl96Uk
     + Hierarchies: Convert Adjacency List to Nested Sets: https://blogs.msdn.microsoft.com/mvpawardprogram/2012/06/25/hierarchies-convert-adjacency-list-to-nested-sets/
     + Trees and Other Hierarchies in MySQL: http://www.artfulsoftware.com/mysqlbook/sampler/mysqled1ch20.html
+    + http://scraping.pro/design-patterns-for-hierarchical-data-storage/
