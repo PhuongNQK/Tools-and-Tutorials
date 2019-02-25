@@ -46,3 +46,4 @@ https://neo4j.com/developer/graph-db-vs-rdbms/
     + Hierarchies: Convert Adjacency List to Nested Sets: https://blogs.msdn.microsoft.com/mvpawardprogram/2012/06/25/hierarchies-convert-adjacency-list-to-nested-sets/
     + Trees and Other Hierarchies in MySQL: http://www.artfulsoftware.com/mysqlbook/sampler/mysqled1ch20.html
     + http://scraping.pro/design-patterns-for-hierarchical-data-storage/
+    + https://begriffs.com/posts/2018-03-20-user-defined-order.html
