@@ -47,6 +47,7 @@ SonarQube:
 - http://www.alanhart.co.uk/tools/compare-css.php
 
 # For frontend developers
+- Javascript: https://medium.freecodecamp.org/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e
 - Imba/Vanilla are faster than React/Vue: https://codeburst.io/faster-web-c6823830ce72
 - Webpack: 
     + https://medium.com/ag-grid/webpack-tutorial-understanding-how-it-works-f73dfa164f01
