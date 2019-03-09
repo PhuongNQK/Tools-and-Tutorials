@@ -52,6 +52,8 @@ SonarQube:
 - Webpack: 
     + https://medium.com/ag-grid/webpack-tutorial-understanding-how-it-works-f73dfa164f01
     + https://hackernoon.com/an-angular-2-webpack-setup-for-development-and-production-3ea8bcc35e24
+    + https://webpack.js.org/comparison/
+    + https://webpack.js.org/guides/asset-management/
 - Angular
     + https://medium.com/@spp020/44-quick-tips-to-fine-tune-angular-performance-9f5768f5d945
     + https://blog.angularindepth.com/inside-ivy-exploring-the-new-angular-compiler-ebf85141cee1
