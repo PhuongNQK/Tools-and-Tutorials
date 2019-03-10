@@ -21,3 +21,7 @@
 - [From an AST to a Relinq model](https://medium.com/@matthew47671280/from-an-ast-to-a-relinq-model-875884200a8c)
 - Best practices:
   - http://foreverframe.net/when-use-include-with-entity-framework/
+
+# EF-Core
+- Logging SQL and Change-Tracking Events in EF Core (non-ASP.NET Core app): https://msdn.microsoft.com/magazine/mt830355
+- EntityFrameworkCore Logging in ASP.NET Core: https://wildermuth.com/2018/11/07/EntityFrameworkCore-Logging-in-ASP-NET-Core
