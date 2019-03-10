@@ -54,6 +54,8 @@ SonarQube:
     + https://hackernoon.com/an-angular-2-webpack-setup-for-development-and-production-3ea8bcc35e24
     + https://webpack.js.org/comparison/
     + https://webpack.js.org/guides/asset-management/
+- React:
+    + How the “Golden Rule” of React components can help you write better code: https://medium.freecodecamp.org/how-the-golden-rule-of-react-components-can-help-you-write-better-code-127046b478eb
 - Angular
     + https://medium.com/@spp020/44-quick-tips-to-fine-tune-angular-performance-9f5768f5d945
     + https://blog.angularindepth.com/inside-ivy-exploring-the-new-angular-compiler-ebf85141cee1
