@@ -1,4 +1,5 @@
 # General concepts
+- https://medium.com/@LearnDataSci/top-5-machine-learning-courses-for-2019-8a259572686e
 - https://developers.google.com/machine-learning/crash-course/
 - https://towardsdatascience.com/ontology-and-data-science-45e916288cc5
 - https://towardsdatascience.com/how-to-learn-data-science-if-youre-broke-7ecc408b53c7
