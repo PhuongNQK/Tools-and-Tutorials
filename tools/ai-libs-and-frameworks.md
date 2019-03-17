@@ -109,6 +109,7 @@ ZoomData
         - https://medium.com/explore-artificial-intelligence/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-natural-language-processing-40fe4e8602ba
         - https://medium.com/dair-ai/hmtl-multi-task-learning-for-state-of-the-art-nlp-245572bbb601
     - Open Sourcing BERT: State-of-the-Art Pre-training for NLP: https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html?m=1
+    - OpenAI GPT-2: https://towardsdatascience.com/openai-gpt-2-understanding-language-generation-through-visualization-8252f683b2f8
     - Web mining suite: https://www.clips.uantwerpen.be/pages/pattern
     - https://cloud.google.com/natural-language/
     - CoreNLP, NLTK, TextBlob, Gensim, Spacy: https://towardsdatascience.com/5-heroic-tools-for-natural-language-processing-7f3c1f8fc9f0
