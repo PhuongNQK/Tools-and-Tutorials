@@ -56,6 +56,7 @@ SonarQube:
     + https://webpack.js.org/guides/asset-management/
 - React:
     + How the “Golden Rule” of React components can help you write better code: https://medium.freecodecamp.org/how-the-golden-rule-of-react-components-can-help-you-write-better-code-127046b478eb
+    + https://medium.com/@smashingmag/bringing-together-react-d3-and-their-ecosystem-dde80de29755
 - Angular
     + https://medium.com/@spp020/44-quick-tips-to-fine-tune-angular-performance-9f5768f5d945
     + https://blog.angularindepth.com/inside-ivy-exploring-the-new-angular-compiler-ebf85141cee1
