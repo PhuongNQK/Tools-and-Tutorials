@@ -1,5 +1,5 @@
 # Introduction
-Extracted from page 22 in **Thinking Architecturally** by *Nathaniel Schutta, O'Reilly*
+Extracted from **page 22** in **Thinking Architecturally** by *Nathaniel Schutta, O'Reilly*
 > You cannot possibly keep up with every twist and turn in the technology space. It 
 > is vital to cultivate sources you trust. Technology Radar from ThoughtWorks is a
 > good source. Published semiannually, the Technology Radar filters real-world
@@ -9,8 +9,7 @@ Extracted from page 22 in **Thinking Architecturally** by *Nathaniel Schutta, O'
 > placed into one of four rings:
 > - **Hold**: Something is very new and not ready for widespread adoption or something
 > is at the end of its lifecycle.
-> - **Assess**: Worth working through a demo or two, examining if/where it might be suit‐
-> able in your organization.
+> - **Assess**: Worth working through a demo or two, examining if/where it might be suitable in your organization.
 > - **Trial**: This technology is ready for a full-on pilot project in your organization.
 > - **Adopt**: You should be using the technology today
 >
@@ -22,9 +21,40 @@ version by cloning or forking the [visualization tool repository](https://github
 
 
 # Quadrand 1: Techniques
+## Ring 1 - HOLD
+
+## Ring 2 - ACCESS
+
+## Ring 3 - TRIAL
+
+## Ring 4 - ADOPT
+
 
 # Quadrand 2: Tools
+## Ring 1 - HOLD
+
+## Ring 2 - ACCESS
+
+## Ring 3 - TRIAL
+
+## Ring 4 - ADOPT
+
 
 # Quadrand 3: Languages & Frameworks
+## Ring 1 - HOLD
+
+## Ring 2 - ACCESS
+
+## Ring 3 - TRIAL
+
+## Ring 4 - ADOPT
+
 
 # Quadrand 4: Platforms
+## Ring 1 - HOLD
+
+## Ring 2 - ACCESS
+
+## Ring 3 - TRIAL
+
+## Ring 4 - ADOPT
