@@ -7,12 +7,12 @@ Extracted from page 22 in **Thinking Architecturally** by *Nathaniel Schutta, O'
 > and divides technologies across four quadrants: **Techniques**, **Tools**, **Languages
 > & Frameworks**, and **Platforms**. Within each quadrant, technologies are
 > placed into one of four rings:
-> **Hold**: Something is very new and not ready for widespread adoption or something
+> - **Hold**: Something is very new and not ready for widespread adoption or something
 > is at the end of its lifecycle.
-> **Assess**: Worth working through a demo or two, examining if/where it might be suit‐
+> - **Assess**: Worth working through a demo or two, examining if/where it might be suit‐
 > able in your organization.
-> **Trial**: This technology is ready for a full-on pilot project in your organization.
-> **Adopt**: You should be using the technology today
+> - **Trial**: This technology is ready for a full-on pilot project in your organization.
+> - **Adopt**: You should be using the technology today
 >
 > ...
 > You may want to build a more formalized radar using a presentation tool or the
