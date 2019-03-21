@@ -15,6 +15,7 @@ Extracted from page 22 in **Thinking Architecturally** by *Nathaniel Schutta, O'
 > - **Adopt**: You should be using the technology today
 >
 > ...
+>
 > You may want to build a more formalized radar using a presentation tool or the
 > [ThoughtWorks visualizer](https://www.thoughtworks.com/radar/how-to-byor). If you prefer, you can always make your own internal
 version by cloning or forking the [visualization tool repository](https://github.com/thoughtworks/build-your-own-radar).
