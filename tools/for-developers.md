@@ -49,6 +49,7 @@ SonarQube:
 # For frontend developers
 - Javascript: https://medium.freecodecamp.org/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e
 - Imba/Vanilla are faster than React/Vue: https://codeburst.io/faster-web-c6823830ce72
+- I abandoned React in favor of Hyperapp — Here’s why: https://hackernoon.com/i-abandonded-react-in-favor-of-hyperapp-heres-why-df65638f8a79
 - Webpack: 
     + https://medium.com/ag-grid/webpack-tutorial-understanding-how-it-works-f73dfa164f01
     + https://hackernoon.com/an-angular-2-webpack-setup-for-development-and-production-3ea8bcc35e24
