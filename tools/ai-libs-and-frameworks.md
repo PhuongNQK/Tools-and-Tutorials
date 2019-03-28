@@ -9,6 +9,9 @@
     + https://towardsdatascience.com/a-deeper-look-into-embeddings-a-linguistic-approach-89cc428a29e7
 - The Surprising Truth About What it Takes to Build a Machine Learning Product: https://medium.com/thelaunchpad/the-ml-surprise-f54706361a6c
 
+# Courses / Training tools
+- Dataquest - Learn Data Science: https://www.dataquest.io/path/data-engineer/
+
 # Newspapers
 - https://openai.com/research/
 - https://ai.google/
