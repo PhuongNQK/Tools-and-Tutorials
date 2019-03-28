@@ -81,6 +81,7 @@ SonarQube:
     + Everything you need to know about <ng-template>, <ng-content>, <ng-container> and *ngTemplateOutlet in Angular: https://medium.freecodecamp.org/everything-you-need-to-know-about-ng-template-ng-content-ng-container-and-ngtemplateoutlet-4b7b51223691 
     + Angular course: https://codecraft.tv/courses/angular/
     + https://codeburst.io/how-to-build-an-angular-app-with-angular-cli-in-a-couple-of-minutes-43089d3ab272
+    + https://blog.angularindepth.com/debug-angular-apps-in-production-without-revealing-source-maps-ab4a235edd85
 - Material Design:
     + https://material.io/
     + For Angular: https://material.angular.io/
