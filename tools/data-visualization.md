@@ -12,8 +12,15 @@
     + Datamap package: https://www.npmjs.com/package/datamaps
     + TopoJSON for many countries: https://github.com/markmarkoh/datamaps/tree/master/dist
     + D3plus Geomap package: https://www.npmjs.com/package/d3plus-geomap
+    + TopoJSON Editor: 
+        + GeoJSON: http://geojson.io/#map=5/63.995/15.776
+        + MapShaper: https://mapshaper.org/
 
 # Cool demo
 ## D3
-- https://observablehq.com/@johnburnmurdoch/bar-chart-race-the-most-populous-cities-in-the-world
-- 3D bar chart: http://bl.ocks.org/austinhyde/02a038074dbd9a7b1eb3
+- Bar charts
+    + https://observablehq.com/@johnburnmurdoch/bar-chart-race-the-most-populous-cities-in-the-world
+    + 3D bar chart: http://bl.ocks.org/austinhyde/02a038074dbd9a7b1eb3
+    + Horizontal Bar Chart: https://d3plus.org/examples/d3plus-plot/bar-chart-horizontal/
+    + D3.js Tutorial: Building Interactive Bar Charts with JavaScript: https://blog.risingstack.com/d3-js-tutorial-bar-charts-with-javascript/
+    + Let’s Make a Bar Chart: https://bost.ocks.org/mike/bar/
