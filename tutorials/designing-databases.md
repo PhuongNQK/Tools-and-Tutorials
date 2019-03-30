@@ -39,6 +39,8 @@ https://neo4j.com/developer/graph-db-vs-rdbms/
 - Tutorials: https://chartio.com/resources/tutorials/how-to-define-an-auto-increment-primary-key-in-postgresql/
 - https://popsql.com/learn-sql/postgresql/how-to-create-a-table-in-postgresql/
 
+## Sonic (https://crates.io/crates/sonic-server)
+
 ## Gribdb
 - https://github.com/griddb/griddb_nosql?gclid=CjwKCAjwvbLkBRBbEiwAChbckWjVfyFLZjTlOxCR4Jmlh4RqKR5dUYjIetXgVPg39vvnsJfWnd_IDxoCHvsQAvD_BwE
 
