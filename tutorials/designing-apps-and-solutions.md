@@ -85,6 +85,9 @@ Utilize abstraction layers for flexibility. E.g.
 # App Frameworks / Servers / Components
 ## For common purposes
 - Java SpringBoot
+    + https://www.vojtechruzicka.com/spring-boot-version/
+    + Actuator: https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#production-ready
+    + Admin: https://github.com/codecentric/spring-boot-admin
 - ASP.NET Core 
 
 ## For specialized purposes
