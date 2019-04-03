@@ -7,8 +7,9 @@
 https://docs.docker.com/get-started/
 https://www.ibm.com/developerworks/community/blogs/jfp/entry/Using_Docker_Machine_On_Windows?lang=en
 
-# Sharing data between containers
-https://www.digitalocean.com/community/tutorials/how-to-share-data-between-docker-containers
+# Sharing data between containers and between containers and hosts
+- https://www.digitalocean.com/community/tutorials/how-to-share-data-between-docker-containers
+- Docker volumes and file system permissions: https://medium.com/@nielssj/docker-volumes-and-file-system-permissions-772c1aee23ca
 
 # Dockerize frontend apps
 React: https://medium.com/ai2-blog/dockerizing-a-react-application-3563688a2378 \
