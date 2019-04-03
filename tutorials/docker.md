@@ -10,6 +10,7 @@ https://www.ibm.com/developerworks/community/blogs/jfp/entry/Using_Docker_Machin
 # Sharing data between containers and between containers and hosts
 - https://www.digitalocean.com/community/tutorials/how-to-share-data-between-docker-containers
 - Docker volumes and file system permissions: https://medium.com/@nielssj/docker-volumes-and-file-system-permissions-772c1aee23ca
+- See ranjandas's reply: https://forums.docker.com/t/docker-toolbox-host-folder-permissions/3419/10
 
 # Dockerize frontend apps
 React: https://medium.com/ai2-blog/dockerizing-a-react-application-3563688a2378 \
