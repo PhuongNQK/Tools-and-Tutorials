@@ -1,7 +1,3 @@
-<style>
-    .must-read {color:red}
-</style>
-
 # Designing classes
 - Generic Command pattern: https://www.cuttingedge.it/blogs/steven/pivot/entry.php?id=91
 
@@ -71,7 +67,7 @@ Utilize abstraction layers for flexibility. E.g.
   - REST:
     - Swagger: http://swagger.io/
   - GraphQL:
-    - <span class='must-read'>Must read::</span> Getting started with GraphQL Java and Spring Boot: https://www.graphql-java.com/tutorials/getting-started-with-spring-boot/
+    - <span style='color:red'>Must read::</span> Getting started with GraphQL Java and Spring Boot: https://www.graphql-java.com/tutorials/getting-started-with-spring-boot/
     - GraphQL Playground: https://github.com/prisma/graphql-playground
     - https://www.multidots.com/graphql-efficient-alternative-rest/
     - Wrapping a REST API in GraphQL: https://graphql.org/blog/rest-api-graphql-wrapper/
