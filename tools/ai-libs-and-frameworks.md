@@ -12,6 +12,9 @@
 # Courses / Training tools
 - Dataquest - Learn Data Science: https://www.dataquest.io/path/data-engineer/
 
+# Examples on how to extract insights from data
+- https://towardsdatascience.com/which-deep-learning-framework-is-growing-fastest-3f77f14aa318
+
 # Newspapers
 - https://openai.com/research/
 - https://ai.google/
@@ -178,4 +181,7 @@ Feature tool
 - Machinebox: https://towardsdatascience.com/launch-with-ai-in-1-week-a4f4f45cc177
 
 # Data training tool
-- Prodigy - An annotation tool powered by active learning: https://prodi.gy
+- [Prodigy - An annotation tool powered by active learning](https://prodi.gy)
+
+# Performance optimization
+- [Get faster pandas with Modin, even on your laptops](https://towardsdatascience.com/get-faster-pandas-with-modin-even-on-your-laptops-b527a2eeda74)
