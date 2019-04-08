@@ -29,6 +29,7 @@
 # Cheat sheets
 - https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
 - https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
+- https://www.datacamp.com/community/data-science-cheatsheets
 
 # ML Projects
 - https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7
@@ -124,6 +125,7 @@ ZoomData
     - OpenNLP: https://opennlp.apache.org/    
         - https://www.tutorialkart.com/opennlp/training-of-document-categorizer-using-naive-bayes-algorithm-in-opennlp/
     - Spacy: 
+        - https://www.datacamp.com/community/blog/spacy-cheatsheet
         - https://spacy.io/, https://spacy.io/usage/linguistic-features
         - https://www.kdnuggets.com/2018/05/getting-started-spacy-natural-language-processing.html
         - Spacy vs. Standford NER / LingPipe / NLTK: http://www.aclweb.org/anthology/W16-2703        
