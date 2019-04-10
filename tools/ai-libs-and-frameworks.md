@@ -178,7 +178,7 @@ Feature tool
 - Tableau: https://www.tableau.com/
 
 # Data Visualization
-See https://github.com/PhuongNQK/Tools-and-Tutorials/edit/master/tools/data-visualization.md
+See [here](https://github.com/PhuongNQK/Tools-and-Tutorials/blob/master/tools/data-visualization.md)
 
 # Object / image detection
 - Machinebox: https://towardsdatascience.com/launch-with-ai-in-1-week-a4f4f45cc177
