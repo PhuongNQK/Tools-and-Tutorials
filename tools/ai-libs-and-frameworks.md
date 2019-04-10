@@ -178,7 +178,7 @@ Feature tool
 - Tableau: https://www.tableau.com/
 
 # Data Visualization
-- https://labs.spotify.com/2018/11/15/introducing-chartify-easier-chart-creation-in-python-for-data-scientists/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20181128+data+nl&mkt_tok=eyJpIjoiTURkbVpHTmlOMlZsTTJaayIsInQiOiJjaHhEMU16ZWtqeWRsZ3dNVDdTQmU2TEJhK1hEOCtCWlVNcnRvSXBNOGx4U3dWQ3p5U1lpWFJtMGxRNXhcLzk4V2RQWEhjRE42REZIdUZtUXdCM1VIckd0a2pWa2NwZGdWTDJTU2R3Yk1DQU1DTWZTbGwzRUlBQWQ2WWVSamdsaDQifQ%3D%3D
+See https://github.com/PhuongNQK/Tools-and-Tutorials/edit/master/tools/data-visualization.md
 
 # Object / image detection
 - Machinebox: https://towardsdatascience.com/launch-with-ai-in-1-week-a4f4f45cc177
