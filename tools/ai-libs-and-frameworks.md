@@ -8,6 +8,7 @@
     + https://medium.com/@echen/a-laymans-introduction-to-embeddings-c1beade1b3e7
     + https://towardsdatascience.com/a-deeper-look-into-embeddings-a-linguistic-approach-89cc428a29e7
 - The Surprising Truth About What it Takes to Build a Machine Learning Product: https://medium.com/thelaunchpad/the-ml-surprise-f54706361a6c
+- Interpretable Machine Learning: https://towardsdatascience.com/interpretable-machine-learning-1dec0f2f3e6b
 
 # Courses / Training tools
 - Dataquest - Learn Data Science: https://www.dataquest.io/path/data-engineer/
@@ -187,3 +188,7 @@ Feature tool
 
 # Performance optimization
 - [Get faster pandas with Modin, even on your laptops](https://towardsdatascience.com/get-faster-pandas-with-modin-even-on-your-laptops-b527a2eeda74)
+
+# Blockchain
+- https://medium.com/coinmonks/blockchain-consensus-and-fault-tolerance-in-a-nutshell-765de83b8d03
+- https://hackernoon.com/5-governments-backing-blockchain-projects-401afa49d412
