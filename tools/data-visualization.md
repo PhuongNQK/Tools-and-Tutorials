@@ -1,3 +1,6 @@
+# General guidelines
+- How to select a suitable chart: https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f
+
 # Libraries & Frameworks
 - [D3](https://d3js.org) is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS.
     + https://blog.risingstack.com/d3-js-tutorial-bar-charts-with-javascript/
@@ -15,6 +18,9 @@
     + TopoJSON Editor: 
         + GeoJSON: http://geojson.io/#map=5/63.995/15.776
         + MapShaper: https://mapshaper.org/
+- For Python:
+    + https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f
+    + Chartify: https://labs.spotify.com/2018/11/15/introducing-chartify-easier-chart-creation-in-python-for-data-scientists/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20181128+data+nl&mkt_tok=eyJpIjoiTURkbVpHTmlOMlZsTTJaayIsInQiOiJjaHhEMU16ZWtqeWRsZ3dNVDdTQmU2TEJhK1hEOCtCWlVNcnRvSXBNOGx4U3dWQ3p5U1lpWFJtMGxRNXhcLzk4V2RQWEhjRE42REZIdUZtUXdCM1VIckd0a2pWa2NwZGdWTDJTU2R3Yk1DQU1DTWZTbGwzRUlBQWQ2WWVSamdsaDQifQ%3D%3D
 
 # Cool demo
 ## D3
