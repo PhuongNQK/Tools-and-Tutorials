@@ -63,6 +63,7 @@ Client-side crawler:
 - Neural network courses: 
     + https://medium.freecodecamp.org/want-to-learn-neural-networks-heres-a-free-brain-js-course-merry-christmas-ea801f378041
     + https://scrimba.com/g/gneuralnetworks
+- https://ml5js.org/docs/getting-started
 
 # Entity Resolution
 General
