@@ -119,6 +119,12 @@ SonarQube:
     + https://blog.cloudboost.io/run-your-angular-app-on-nodejs-c89f1e99ddd3
     + https://qmau.me/blog/post/12-cach-toi-uu-hoa-website-thoi-dai-cua-mobile-first
 
+# For backend developers
+- Java:
+    + Milestones:
+        - Upgrading from Java 8 to Java 12: https://www.infoq.com/articles/upgrading-java-8-to-12?utm_source=infoqemail&utm_medium=java&utm_campaign=newsletter&utm_content=04162019
+        - Panel: Java Is Still Free? https://www.infoq.com/presentations/panel-java-free?utm_source=infoqemail&utm_medium=java&utm_campaign=newsletter&utm_content=04162019
+
 # For Node developer
 - How to Create and Publish an NPM module in TypeScript: https://codeburst.io/https-chidume-nnamdi-com-npm-module-in-typescript-12b3b22f0724
 - Build and publish a NPM library with Typescript: https://medium.com/@nilayvishwakarma/build-an-npm-package-with-typescript-by-nilay-vishwakarma-f303d7072f80
