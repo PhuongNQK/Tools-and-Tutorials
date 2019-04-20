@@ -75,6 +75,8 @@ Utilize abstraction layers for flexibility. E.g.
     - Getting Started with GraphQL and Spring Boot: http://www.baeldung.com/spring-graphql
     - GraphQL Java implementation: https://github.com/graphql-java/graphql-java
     - Hide Elastic Search REST API behind GraphQL: https://github.com/graphql-compose/graphql-compose-elasticsearch
+- Define the technical stack and upgrade strategy:
+  - E.g. Which version to start with? Choose LTS or non-LTS releases?
 
 ## Scalability and High Availability
 - Lessons learned:
