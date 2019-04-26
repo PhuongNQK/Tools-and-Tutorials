@@ -51,6 +51,9 @@ SonarQube:
 - ECMAScript 6 features: https://github.com/lukehoban/es6features
 - Javascript: https://medium.freecodecamp.org/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e
 - Imba/Vanilla are faster than React/Vue: https://codeburst.io/faster-web-c6823830ce72
+- TypeScript:
+    + How To Use External Plain JavaScript Libraries in TypeScript Projects: https://www.techiediaries.com/use-external-javascript-libraries-typescript-projects/
+    + https://weblog.west-wind.com/posts/2016/sep/12/external-javascript-dependencies-in-typescript-and-angular-2
 - I abandoned React in favor of Hyperapp — Here’s why: https://hackernoon.com/i-abandonded-react-in-favor-of-hyperapp-heres-why-df65638f8a79
 - Webpack: 
     + https://medium.com/ag-grid/webpack-tutorial-understanding-how-it-works-f73dfa164f01
@@ -58,8 +61,10 @@ SonarQube:
     + https://webpack.js.org/comparison/
     + https://webpack.js.org/guides/asset-management/
 - React:
+    + React tutorial: https://www.toptal.com/react/react-tutorial-pt1?utm_source=hs_email&utm_medium=email&utm_content=71963100&_hsenc=p2ANqtz-9dGKJ3kkBuYfZJXQWTCsq82F0uHjvbfIrKtCeq385LliF4hfgHkIWBeTzOY-UKSWZdbl7XZzs7_qY1ZlgIXzXEXu6K6Q&_hsmi=71963100
     + How the “Golden Rule” of React components can help you write better code: https://medium.freecodecamp.org/how-the-golden-rule-of-react-components-can-help-you-write-better-code-127046b478eb
     + https://medium.com/@smashingmag/bringing-together-react-d3-and-their-ecosystem-dde80de29755
+    + https://blog.bitsrc.io/lazy-loading-react-components-with-react-lazy-and-suspense-f05c4cfde10c
 - Angular
     + https://medium.com/@spp020/44-quick-tips-to-fine-tune-angular-performance-9f5768f5d945
     + https://blog.angularindepth.com/inside-ivy-exploring-the-new-angular-compiler-ebf85141cee1
