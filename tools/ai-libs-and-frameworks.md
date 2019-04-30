@@ -191,5 +191,7 @@ See [here](https://github.com/PhuongNQK/Tools-and-Tutorials/blob/master/tools/da
 - [Get faster pandas with Modin, even on your laptops](https://towardsdatascience.com/get-faster-pandas-with-modin-even-on-your-laptops-b527a2eeda74)
 
 # Blockchain
+- https://medium.com/s/story/how-does-the-blockchain-work-98c8cd01d2ae
 - https://medium.com/coinmonks/blockchain-consensus-and-fault-tolerance-in-a-nutshell-765de83b8d03
 - https://hackernoon.com/5-governments-backing-blockchain-projects-401afa49d412
+- https://hackernoon.com/why-doesnt-anyone-in-crypto-think-about-distribution-3974e5bf7318
