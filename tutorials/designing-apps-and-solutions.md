@@ -1,5 +1,6 @@
 # Designing classes
 - Generic Command pattern: https://www.cuttingedge.it/blogs/steven/pivot/entry.php?id=91
+- OOP vs. FP: https://medium.com/refactor-zone/what-people-misunderstand-about-oop-dcdaa35cabf7
 
 # Designing APIs and Communication Mechanism
 - https://levelup.gitconnected.com/to-create-an-evolvable-api-stop-thinking-about-urls-2ad8b4cc208e
