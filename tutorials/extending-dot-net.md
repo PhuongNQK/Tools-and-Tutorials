@@ -29,3 +29,8 @@
 - Logging SQL and Change-Tracking Events in EF Core (non-ASP.NET Core app): https://msdn.microsoft.com/magazine/mt830355
 - EntityFrameworkCore Logging in ASP.NET Core: https://wildermuth.com/2018/11/07/EntityFrameworkCore-Logging-in-ASP-NET-Core
 - Simple EF6-style Logging for EF Core: https://blogs.msdn.microsoft.com/dbrowne/2017/09/22/simple-logging-for-ef-core/
+
+# ASP.NET Core
+## With SignalR
+- https://code-maze.com/enabling-cors-in-asp-net-core/
+- https://code-maze.com/netcore-signalr-angular/
