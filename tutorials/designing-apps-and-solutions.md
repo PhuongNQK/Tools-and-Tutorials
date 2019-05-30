@@ -87,6 +87,7 @@ Utilize abstraction layers for flexibility. E.g.
     - Cloud-native architecture with serverless microservices — the Smart Parking story: https://cloudplatform.googleblog.com/2018/04/Cloud-native-architecture-with-serverless-microservices-the-Smart-Parking-story.html
     - https://underthehood.meltwater.com/blog/2018/02/06/running-a-400+-node-es-cluster/
     - https://medium.appbase.io/benchmarking-elasticsearch-1-million-writes-per-sec-bf37e7ca8a4c
+    - Using JMeter and IP Spoofing to simulate requests from different IP addresses: https://www.blazemeter.com/blog/using-ip-spoofing-simulate-requests-different-ip-addresses-jmeter
 
 # App Frameworks / Servers / Components
 ## For common purposes
