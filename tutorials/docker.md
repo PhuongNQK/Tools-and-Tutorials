@@ -6,11 +6,13 @@
 # Getting started
 https://docs.docker.com/get-started/
 https://www.ibm.com/developerworks/community/blogs/jfp/entry/Using_Docker_Machine_On_Windows?lang=en
+https://manski.net/2016/10/docker-toolbox-shell-via-batch/, https://manski.net/2016/09/command-line-replacement-for-windows/
 
 # Sharing data between containers and between containers and hosts
 - https://www.digitalocean.com/community/tutorials/how-to-share-data-between-docker-containers
 - Docker volumes and file system permissions: https://medium.com/@nielssj/docker-volumes-and-file-system-permissions-772c1aee23ca
 - See ranjandas's reply: https://forums.docker.com/t/docker-toolbox-host-folder-permissions/3419/10
+- https://4sysops.com/archives/introduction-to-docker-bind-mounts-and-volumes
 
 # Dockerize frontend apps
 React: https://medium.com/ai2-blog/dockerizing-a-react-application-3563688a2378 \
