@@ -5,6 +5,9 @@
 # Designing APIs and Communication Mechanism
 - https://levelup.gitconnected.com/to-create-an-evolvable-api-stop-thinking-about-urls-2ad8b4cc208e
 - RSocket: Solving Real-World Architectural Challenges: https://www.infoq.com/presentations/rsocket-cloud-native/?utm_source=email&utm_medium=architecture-design&utm_campaign=newsletter&utm_content=06112019
+- WebSocket:
+    + High-load WebSocket server with Go: https://www.freecodecamp.org/news/million-websockets-and-go-cc58418460bb/
+    + WebSocket with Go: https://gowebexamples.com/websockets/
 
 ## REST APIs
 - Naming conventions:
