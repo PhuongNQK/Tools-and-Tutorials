@@ -4,6 +4,7 @@
 
 # Designing APIs and Communication Mechanism
 - https://levelup.gitconnected.com/to-create-an-evolvable-api-stop-thinking-about-urls-2ad8b4cc208e
+- RSocket: Solving Real-World Architectural Challenges: https://www.infoq.com/presentations/rsocket-cloud-native/?utm_source=email&utm_medium=architecture-design&utm_campaign=newsletter&utm_content=06112019
 
 ## REST APIs
 - Naming conventions:
