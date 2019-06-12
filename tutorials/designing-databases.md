@@ -44,6 +44,10 @@ https://neo4j.com/developer/graph-db-vs-rdbms/
 ## Gribdb
 - https://github.com/griddb/griddb_nosql?gclid=CjwKCAjwvbLkBRBbEiwAChbckWjVfyFLZjTlOxCR4Jmlh4RqKR5dUYjIetXgVPg39vvnsJfWnd_IDxoCHvsQAvD_BwE
 
+## Big Query
+- https://www.toptal.com/database/google-bigquery-tutorial?utm_campaign=Toptal%20Engineering%20Blog&utm_source=hs_email&utm_medium=email&utm_content=73553328&_hsenc=p2ANqtz-_x3jCBsoo50zBn8Q2vvd_v5GkbCTq81RmaAv6BZrtmzMSyS4P5xvwCb1meagJdJaUAAEhw9ZSkBrPmNwilT4SWwlE71Q&_hsmi=73553328
+
+
 # Common topics
 ## How to store hierarchical data in relational database?
 - https://stackoverflow.com/questions/935098/database-structure-for-tree-data-structure
@@ -53,3 +57,4 @@ https://neo4j.com/developer/graph-db-vs-rdbms/
     + Trees and Other Hierarchies in MySQL: http://www.artfulsoftware.com/mysqlbook/sampler/mysqled1ch20.html
     + http://scraping.pro/design-patterns-for-hierarchical-data-storage/
     + https://begriffs.com/posts/2018-03-20-user-defined-order.html
+
