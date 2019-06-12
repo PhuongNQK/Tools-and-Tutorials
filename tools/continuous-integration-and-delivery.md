@@ -7,6 +7,7 @@
 - https://engineering.riotgames.com/news/jenkins-ephemeral-docker-tutorial
 - http://fishi.devtail.io/weblog/2016/11/20/docker-build-pipeline-as-code-jenkins/#gist42092017
 - https://github.com/jenkinsci/docker-workflow-plugin
+- https://www.toptal.com/devops/effective-ci-cd-deployment-pipeline
 
 # Infrastructure as Code
 - [TeraForm](https://www.terraform.io/) - Define infrastructure as code to make it reproducible and increase operator productivity and transparency
