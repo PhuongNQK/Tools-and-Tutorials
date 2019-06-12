@@ -59,6 +59,7 @@ Utilize abstraction layers for flexibility. E.g.
 ## Samples
 - Calling RESTful APIs in Unity3D: https://www.red-gate.com/simple-talk/dotnet/c-programming/calling-restful-apis-unity3d/?utm_source=simpletalk&utm_medium=pubemail&utm_content=20180417-slota2&utm_term=simpletalkmain
 - Salesforce data model: https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/data_model.htm
+- Zero to Hero: Flask Production Recipes: https://www.toptal.com/flask/flask-production-recipes?utm_campaign=Toptal%20Engineering%20Blog&utm_source=hs_email&utm_medium=email&utm_content=73287425&_hsenc=p2ANqtz-9Oo7H9sa6VSv69VnsLyMJD-Lj3NVVauu5cPkmVAYhIsKhcYjNr_ZLA0FD47xIazpwqc5UsUdLbU_VdQHbkqL2nqK62SQ&_hsmi=73287425
 
 # Designing Solutions
 ## Principles
@@ -96,6 +97,7 @@ Utilize abstraction layers for flexibility. E.g.
 # App Frameworks / Servers / Components
 ## For common purposes
 - Java SpringBoot
+    + A complete course: https://www.baeldung.com/spring-boot
     + https://www.vojtechruzicka.com/spring-boot-version/
     + Actuator: https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#production-ready
     + Admin: https://github.com/codecentric/spring-boot-admin
