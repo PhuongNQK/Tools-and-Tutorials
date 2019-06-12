@@ -37,6 +37,7 @@ Angular: https://www.slideshare.net/johnpapa/optimizing-and-deploying-angular
 - Golang image:
     + https://blog.codeship.com/building-minimal-docker-containers-for-go-applications/
 - https://towardsdatascience.com/slimming-down-your-docker-images-275f0ca9337e
+- https://medium.com/@gdiener/how-to-build-a-smaller-docker-image-76779e18d48a
 
 # Useful Docker images
 - Alpine with envsubst: https://github.com/cirocosta/alpine-envsubst
