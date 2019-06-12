@@ -2,7 +2,7 @@
 - [Katacoda - Interactive Learning and Training Platform for Software Engineers](https://www.katacoda.com/)
 - [CodePen is a social development environment for front-end designers and developers](https://codepen.io/)
 - [CodeSandbox is an online editor that helps you create web applications, from prototype to deployment](https://codesandbox.io)
-- [The online IDE for web applications. Powered by VS Code.](https://stackblitz.com/)
+- [Stackblitz - The online IDE for web applications. Powered by VS Code.](https://stackblitz.com/)
 - [JSFiddle](https://jsfiddle.net/)
 - [FiddleSalad](http://fiddlesalad.com/javascript/)
 - [JSBin](https://jsbin.com/?html,output)
