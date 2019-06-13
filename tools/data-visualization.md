@@ -1,10 +1,15 @@
 # General guidelines
 - How to select a suitable chart: https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f
 
+# Conceptual tools
+- https://towardsdatascience.com/3-awesome-visualization-techniques-for-every-dataset-9737eecacbe8
+
 # Libraries & Frameworks
 - [D3](https://d3js.org) is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS.
     + https://blog.risingstack.com/d3-js-tutorial-bar-charts-with-javascript/
+- https://towardsdatascience.com/its-2019-make-your-data-visualizations-interactive-with-plotly-b361e7d45dc6
 - [Processing](https://processing.org/) is a flexible software sketchbook and a language for learning how to code within the context of the visual arts.
+- https://medium.com/free-code-camp/these-are-the-best-javascript-chart-libraries-for-2019-29782f5e1dc2
 - [Protovis](https://mbostock.github.io/protovis/) - (No longer under active development)
 - [AmCharts](https://www.amcharts.com)
 - [Highcharts](https://www.highcharts.com/)
