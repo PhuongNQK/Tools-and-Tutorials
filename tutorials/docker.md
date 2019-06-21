@@ -7,6 +7,7 @@
 https://docs.docker.com/get-started/
 https://www.ibm.com/developerworks/community/blogs/jfp/entry/Using_Docker_Machine_On_Windows?lang=en
 https://manski.net/2016/10/docker-toolbox-shell-via-batch/, https://manski.net/2016/09/command-line-replacement-for-windows/
+https://www.digitalocean.com/community/tutorials/naming-docker-containers-3-tips-for-beginners
 
 # Sharing data between containers and between containers and hosts
 - https://www.digitalocean.com/community/tutorials/how-to-share-data-between-docker-containers
