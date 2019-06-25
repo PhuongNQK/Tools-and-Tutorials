@@ -10,6 +10,7 @@
 - https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-ports-targetport-nodeport-service.html
 - https://kubernetes.io/docs/concepts/services-networking/connect-applications-service/
 - https://supergiant.io/blog/introduction-to-init-containers-in-kubernetes/
+- https://learnk8s.io/blog/installing-docker-and-kubernetes-on-windows/
 
 # Tools
 - https://opensource.com/article/19/6/tools-drive-kubernetes
