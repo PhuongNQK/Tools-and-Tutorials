@@ -5,6 +5,7 @@
 - https://towardsdatascience.com/3-awesome-visualization-techniques-for-every-dataset-9737eecacbe8
 
 # Libraries & Frameworks
+- [11 Javascript Data Visualization Libraries for 2019](https://blog.bitsrc.io/11-javascript-charts-and-data-visualization-libraries-for-2018-f01a283a5727)
 - [D3](https://d3js.org) is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS.
     + https://blog.risingstack.com/d3-js-tutorial-bar-charts-with-javascript/
 - https://towardsdatascience.com/its-2019-make-your-data-visualizations-interactive-with-plotly-b361e7d45dc6
