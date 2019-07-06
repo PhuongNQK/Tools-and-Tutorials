@@ -56,6 +56,7 @@ SonarQube:
     + https://weblog.west-wind.com/posts/2016/sep/12/external-javascript-dependencies-in-typescript-and-angular-2
 - I abandoned React in favor of Hyperapp — Here’s why: https://hackernoon.com/i-abandonded-react-in-favor-of-hyperapp-heres-why-df65638f8a79
 - Webpack: 
+    + https://medium.com/free-code-camp/a-beginners-introduction-to-webpack-2620415e46b3
     + https://medium.com/ag-grid/webpack-tutorial-understanding-how-it-works-f73dfa164f01
     + https://hackernoon.com/an-angular-2-webpack-setup-for-development-and-production-3ea8bcc35e24
     + https://webpack.js.org/comparison/
@@ -150,6 +151,7 @@ SonarQube:
 
 # For DevOps
 - https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb
+- Configuring your server to provide HTTPS using Let's Encrypt and Nginx: https://hackernoon.com/configuring-your-server-to-provide-https-using-lets-encrypt-and-nginx-e46a5ae93e41
 
 # App Development Lifecycle
 Rule: Optmize every step
