@@ -9,6 +9,7 @@
     + https://towardsdatascience.com/a-deeper-look-into-embeddings-a-linguistic-approach-89cc428a29e7
 - The Surprising Truth About What it Takes to Build a Machine Learning Product: https://medium.com/thelaunchpad/the-ml-surprise-f54706361a6c
 - Interpretable Machine Learning: https://towardsdatascience.com/interpretable-machine-learning-1dec0f2f3e6b
+- Machine Learning is Fun: https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
 
 # Courses / Training tools
 - Dataquest - Learn Data Science: https://www.dataquest.io/path/data-engineer/
@@ -33,7 +34,7 @@
 - https://www.datacamp.com/community/data-science-cheatsheets
 
 # ML Projects
-- https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7
+- 30 Amazing Machine Learning Projects for the Past Year (v.2018): https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7
 
 # Build an AI product
 - https://towardsdatascience.com/launch-with-ai-in-1-week-a4f4f45cc177
