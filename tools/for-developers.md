@@ -153,6 +153,11 @@ SonarQube:
 - https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb
 - Configuring your server to provide HTTPS using Let's Encrypt and Nginx: https://hackernoon.com/configuring-your-server-to-provide-https-using-lets-encrypt-and-nginx-e46a5ae93e41
 
+# Cool projects
+## Python
+- Python Open Source of the Month (v.Sep 2018): https://medium.mybridge.co/python-open-source-of-the-month-v-sep-2018-3136ac55f230
+- 36 Amazing Python Open Source Projects (v.2019): https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450
+
 # App Development Lifecycle
 Rule: Optmize every step
 
