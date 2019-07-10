@@ -16,6 +16,7 @@
 
 # Examples on how to extract insights from data
 - https://towardsdatascience.com/which-deep-learning-framework-is-growing-fastest-3f77f14aa318
+- https://medium.com/s/story/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe
 
 # Newspapers
 - https://openai.com/research/
