@@ -151,9 +151,16 @@ SonarQube:
 - TensorFlow: https://www.tensorflow.org
 - TensorFlow Hub: https://www.tensorflow.org/hub/
 
-# For DevOps
+# For DevOps / Server Admin (who will need to work a lot with command line tools)
 - https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb
 - Configuring your server to provide HTTPS using Let's Encrypt and Nginx: https://hackernoon.com/configuring-your-server-to-provide-https-using-lets-encrypt-and-nginx-e46a5ae93e41
+- [ZeroSSL](https://zerossl.com/free-ssl)
+- [10 best SSH Clients for Windows: free alternatives to PuTTY](https://www.smarthomebeginner.com/best-ssh-clients-windows-putty-alternatives/): **MobaXTerm** is the most recommended.
+- Bash programming in a nutshell:
+    + [Shell programming with bash: by example, by counter-example](http://matt.might.net/articles/bash-by-example/)
+    + [Bash scripting](https://tecadmin.net/tutorial/bash-scripting/hello-world/)
+- [14 Command Line Tools to Check CPU Usage in Linux](https://linoxide.com/monitoring-2/10-tools-monitor-cpu-performance-usage-linux-command-line/)
+- [How to Write Shell Scripts with JavaScript](https://www.sitepoint.com/shell-scripts-javascript/)
 
 # Cool projects
 ## Python
