@@ -136,6 +136,7 @@ SonarQube:
         - Panel: Java Is Still Free? https://www.infoq.com/presentations/panel-java-free?utm_source=infoqemail&utm_medium=java&utm_campaign=newsletter&utm_content=04162019
 
 # For Node developer
+- [Why the Hell Would You Use Node.js](https://medium.com/the-node-js-collection/why-the-hell-would-you-use-node-js-4b053b94ab8e)
 - How to Create and Publish an NPM module in TypeScript: https://codeburst.io/https-chidume-nnamdi-com-npm-module-in-typescript-12b3b22f0724
 - Build and publish a NPM library with Typescript: https://medium.com/@nilayvishwakarma/build-an-npm-package-with-typescript-by-nilay-vishwakarma-f303d7072f80
 - [setImmediate vs. nextTick() vs. setTimeout() in NodeJS event loop](https://viblo.asia/p/giai-thich-ve-setimmediate-nexttick-va-settimeoutfn0-Az45bnLq5xY)
