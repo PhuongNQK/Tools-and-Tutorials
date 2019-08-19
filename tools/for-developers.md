@@ -138,6 +138,11 @@ SonarQube:
 # For Node developer
 - How to Create and Publish an NPM module in TypeScript: https://codeburst.io/https-chidume-nnamdi-com-npm-module-in-typescript-12b3b22f0724
 - Build and publish a NPM library with Typescript: https://medium.com/@nilayvishwakarma/build-an-npm-package-with-typescript-by-nilay-vishwakarma-f303d7072f80
+- [setImmediate vs. nextTick() vs. setTimeout() in NodeJS event loop](https://viblo.asia/p/giai-thich-ve-setimmediate-nexttick-va-settimeoutfn0-Az45bnLq5xY)
+- Writing production-ready Node and Express app:
+    + [How to write a production-ready Node and Express app](https://www.freecodecamp.org/news/how-to-write-a-production-ready-node-and-express-app-f214f0b17d8c/)
+    + [Production best practices: performance and reliability](https://expressjs.com/en/advanced/best-practice-performance.html)
+    + [Express Tutorial Part 7: Deploying to production using Heroku](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/deployment)
 
 # For network developer
 - Blockade: https://github.com/worstcase/blockade
