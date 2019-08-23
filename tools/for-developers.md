@@ -105,6 +105,8 @@ SonarQube:
         - https://mgechev.github.io/angular-seed/
         - https://github.com/mgechev/angular-seed/wiki/Speed-up-the-build-on-Windows
 - Performance optimization:
+    + [Measure Performance with the RAIL (Response - Animation - Idle - Load) Model](https://developers.google.com/web/fundamentals/performance/rail)
+    + [How to use Chrome and DevTools to find memory issues](https://developers.google.com/web/tools/chrome-devtools/memory-problems/)
     + Evaluation tool: https://testmysite.thinkwithgoogle.com/
     + All optimizations in one article: https://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/
     + Analyze bundle size with:
