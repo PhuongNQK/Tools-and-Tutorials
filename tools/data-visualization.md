@@ -36,3 +36,6 @@
     + Horizontal Bar Chart: https://d3plus.org/examples/d3plus-plot/bar-chart-horizontal/
     + D3.js Tutorial: Building Interactive Bar Charts with JavaScript: https://blog.risingstack.com/d3-js-tutorial-bar-charts-with-javascript/
     + Let’s Make a Bar Chart: https://bost.ocks.org/mike/bar/
+## Sketchnotes
+- [50+ Awesome Resources to Create Visual Notes, Graphic Recordings & Sketchnotes](https://creativemarket.com/blog/50-awesome-resources-to-create-visual-notes-graphic-recordings-sketchnotes)
+- [100 Days of Dataviz Comics](https://medium.com/nightingale/100-days-of-dataviz-comics-9a24789f3f69)
