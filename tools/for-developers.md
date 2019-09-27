@@ -110,6 +110,7 @@ SonarQube:
     + [Measure Performance with the RAIL (Response - Animation - Idle - Load) Model](https://developers.google.com/web/fundamentals/performance/rail)
     + [How to use Chrome and DevTools to find memory issues](https://developers.google.com/web/tools/chrome-devtools/memory-problems/)
     + [Efficiently load JavaScript with defer and async](https://flaviocopes.com/javascript-async-defer/)
+    + [The cost of JavaScript in 2019](https://v8.dev/blog/cost-of-javascript-2019#json)
     + Evaluation tool: https://testmysite.thinkwithgoogle.com/
     + All optimizations in one article: https://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/
     + Analyze bundle size with:
@@ -127,7 +128,11 @@ SonarQube:
     + Understanding webpack’s affair with the Angular CLI: https://hackernoon.com/webpack-for-angular-developers-c8584a60e627
     + Use AMP: https://support.google.com/google-ads/answer/7384020?utm_source=amptms&utm_medium=referral&utm_campaign=tmsamp&_ga=2.185332650.2097388107.1540604110-1677011756.1540604110
     + AMP - Tool to develop: https://www.ampproject.org/learn/overview/
-    + Create an effective mobile site: https://support.google.com/google-ads/answer/2549057    
+    + Create an effective mobile site: https://support.google.com/google-ads/answer/2549057   
+    + Understand JS operations:
+        - [Perfection kill - Understanding delete](http://perfectionkills.com/understanding-delete/)
+        - [How do I remove a property from a JavaScript object?
+](https://stackoverflow.com/questions/208105/how-do-i-remove-a-property-from-a-javascript-object)
 - NodeJS Web server:
     + http-server: https://www.npmjs.com/package/http-server
     + serve: https://www.npmjs.com/package/serve
