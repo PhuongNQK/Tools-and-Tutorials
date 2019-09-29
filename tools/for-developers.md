@@ -155,6 +155,14 @@ SonarQube:
     + [Production best practices: performance and reliability](https://expressjs.com/en/advanced/best-practice-performance.html)
     + [Express Tutorial Part 7: Deploying to production using Heroku](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/deployment)
 
+# For Ruby developer
+- [Ruby Debugger Using Visual Studio Code](https://stackify.com/ruby-debugger-using-visual-studio-code/)
+- [Ruby Development with VS Code](https://medium.com/@terrenceong/ruby-development-with-vs-code-fab258db5f1d)
+- [Getting Started with Ruby](https://medium.com/@terrenceong/getting-started-with-ruby-part-1-77e3d7914f8f)
+- [Recommended Configuration of Visual Studio Code for Ruby on Rails Development](https://viblo.asia/p/recommended-configuration-of-visual-studio-code-for-ruby-on-rails-development-Qpmle7D7Krd)
+- [Ruby Naming Convention](http://www.marcelofossrj.com/guide/2017/07/15/ruby-naming.html)
+- [prettier/plugin-ruby](https://github.com/prettier/plugin-ruby)
+
 # For network developer
 - Blockade: https://github.com/worstcase/blockade
 - JMeter: https://www.blazemeter.com/blog/using-ip-spoofing-simulate-requests-different-ip-addresses-jmeter
