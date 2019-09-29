@@ -163,6 +163,9 @@ SonarQube:
 - [Ruby Naming Convention](http://www.marcelofossrj.com/guide/2017/07/15/ruby-naming.html)
 - [prettier/plugin-ruby](https://github.com/prettier/plugin-ruby)
 
+# For Go developer
+- [](https://www.bogotobogo.com/GoLang/GoLang_Visual_Studio_Code.php)
+
 # For network developer
 - Blockade: https://github.com/worstcase/blockade
 - JMeter: https://www.blazemeter.com/blog/using-ip-spoofing-simulate-requests-different-ip-addresses-jmeter
