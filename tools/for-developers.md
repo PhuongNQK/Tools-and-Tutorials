@@ -162,9 +162,13 @@ SonarQube:
 - [Recommended Configuration of Visual Studio Code for Ruby on Rails Development](https://viblo.asia/p/recommended-configuration-of-visual-studio-code-for-ruby-on-rails-development-Qpmle7D7Krd)
 - [Ruby Naming Convention](http://www.marcelofossrj.com/guide/2017/07/15/ruby-naming.html)
 - [prettier/plugin-ruby](https://github.com/prettier/plugin-ruby)
+- [Example with Ruby on Rails Application for Codefresh](https://github.com/codefresh-contrib/ruby-on-rails-sample-app)
+- [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
+- [Rubocop - A Ruby static code analyzer and formatter, based on the community Ruby style guide](https://github.com/rubocop-hq/rubocop)
+- [The Ruby Style Guide](https://rubystyle.guide/)
 
 # For Go developer
-- [](https://www.bogotobogo.com/GoLang/GoLang_Visual_Studio_Code.php)
+- [GOLANG TUTORIAL - VISUAL STUDIO CODE](https://www.bogotobogo.com/GoLang/GoLang_Visual_Studio_Code.php)
 
 # For network developer
 - Blockade: https://github.com/worstcase/blockade
