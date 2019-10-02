@@ -60,10 +60,15 @@ SonarQube:
 - I abandoned React in favor of Hyperapp — Here’s why: https://hackernoon.com/i-abandonded-react-in-favor-of-hyperapp-heres-why-df65638f8a79
 - Webpack: 
     + https://medium.com/free-code-camp/a-beginners-introduction-to-webpack-2620415e46b3
+    + [How and when (not) to use webpack for lazy loading?](https://medium.com/walkme-engineering/how-and-when-not-to-use-webpack-for-lazy-loading-bef9d37c42c1)
+    + [Webpack and Dynamic Imports: Doing it Right](https://medium.com/front-end-weekly/webpack-and-dynamic-imports-doing-it-right-72549ff49234)
     + https://medium.com/ag-grid/webpack-tutorial-understanding-how-it-works-f73dfa164f01
     + https://hackernoon.com/an-angular-2-webpack-setup-for-development-and-production-3ea8bcc35e24
     + https://webpack.js.org/comparison/
     + https://webpack.js.org/guides/asset-management/
+    + Plugins:
+        - [Optimize CSS Assets Webpack Plugin](https://www.npmjs.com/package/optimize-css-assets-webpack-plugin)
+        - [extract-css-chunks-webpack-plugin](https://www.npmjs.com/package/extract-css-chunks-webpack-plugin)
 - React:
     + [The React Handbook - by Flavio Copes](https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/)
     + React tutorial: https://www.toptal.com/react/react-tutorial-pt1?utm_source=hs_email&utm_medium=email&utm_content=71963100&_hsenc=p2ANqtz-9dGKJ3kkBuYfZJXQWTCsq82F0uHjvbfIrKtCeq385LliF4hfgHkIWBeTzOY-UKSWZdbl7XZzs7_qY1ZlgIXzXEXu6K6Q&_hsmi=71963100
@@ -72,6 +77,7 @@ SonarQube:
     + https://blog.bitsrc.io/lazy-loading-react-components-with-react-lazy-and-suspense-f05c4cfde10c
     + https://medium.com/javascript-in-plain-english/state-management-with-react-hooks-no-redux-or-context-api-8b3035ceecf8
     + https://medium.com/free-code-camp/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a
+    + [](https://www.robinwieruch.de/react-warning-cant-call-setstate-on-an-unmounted-component)
 - Angular
     + https://medium.com/@spp020/44-quick-tips-to-fine-tune-angular-performance-9f5768f5d945
     + https://blog.angularindepth.com/inside-ivy-exploring-the-new-angular-compiler-ebf85141cee1
