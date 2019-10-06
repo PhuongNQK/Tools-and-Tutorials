@@ -165,6 +165,7 @@ SonarQube:
 - [Ruby Debugger Using Visual Studio Code](https://stackify.com/ruby-debugger-using-visual-studio-code/)
 - [Ruby Development with VS Code](https://medium.com/@terrenceong/ruby-development-with-vs-code-fab258db5f1d)
 - [Getting Started with Ruby](https://medium.com/@terrenceong/getting-started-with-ruby-part-1-77e3d7914f8f)
+- [Approximating “Prettier for Ruby” with RuboCop](https://flexport.engineering/approximating-prettier-for-ruby-with-rubocop-8b863bd64dc6)
 - [Recommended Configuration of Visual Studio Code for Ruby on Rails Development](https://viblo.asia/p/recommended-configuration-of-visual-studio-code-for-ruby-on-rails-development-Qpmle7D7Krd)
 - [Ruby Naming Convention](http://www.marcelofossrj.com/guide/2017/07/15/ruby-naming.html)
 - [prettier/plugin-ruby](https://github.com/prettier/plugin-ruby)
