@@ -173,6 +173,7 @@ SonarQube:
 - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
 - [Rubocop - A Ruby static code analyzer and formatter, based on the community Ruby style guide](https://github.com/rubocop-hq/rubocop)
 - [The Ruby Style Guide](https://rubystyle.guide/)
+- [Ruby on Rails with Visual Studio Code](https://medium.com/@PaulWritesCode/ruby-on-rails-with-visual-studio-code-bc5681a2c098)
 
 # For Go developer
 - [GOLANG TUTORIAL - VISUAL STUDIO CODE](https://www.bogotobogo.com/GoLang/GoLang_Visual_Studio_Code.php)
