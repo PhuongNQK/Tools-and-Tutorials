@@ -38,6 +38,9 @@ Should that be a Microservice?
 - [Part 3: Independent Life Cycles](https://content.pivotal.io/blog/should-that-be-a-microservice-part-3-independent-life-cycles)
 - Micro Frontends - How I Built An SPA With Angular And React? https://ivanjov.com/micro-frontends-how-i-built-a-spa-with-angular-and-react/
 
+Should we use Micro Frontends?
+- [The Strengths and Benefits of Micro Frontends](https://www.toptal.com/front-end/micro-frontends-strengths-benefits?utm_campaign=Toptal%20Engineering%20Blog&utm_source=hs_email&utm_medium=email&utm_content=78082402&_hsenc=p2ANqtz-947TAgmD9VmIHZCXsGlBidy50ekfERwbklP0bfBWlL4x2VywTlAuIk452cH9hRmrxnicLjN7zIypK8mOnr-Ss6XnYAUQ&_hsmi=78082402)
+
 Utilize abstraction layers for flexibility. E.g.
 - Instead of using Apache Flink / Apache Spark directly, we can use Apache Beam
 - Instead of using Hadoop directly, we can use Apache Ignite
