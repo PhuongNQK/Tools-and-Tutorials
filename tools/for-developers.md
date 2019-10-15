@@ -48,6 +48,7 @@ SonarQube:
 
 # For frontend developers
 - A Look at JavaScript’s Future: https://www.toptal.com/javascript/predicting-javascript-future?utm_campaign=Toptal%20Engineering%20Blog&utm_source=hs_email&utm_medium=email&utm_content=74219254&_hsenc=p2ANqtz-_78NdGTe1DUbZ627Ydk6k0mdhMqxKvZF4615Xv292yWFmUPC0TcTvSldB_g3fEOqa6yTVJKBjcWpEC9zbhsQ1_NlXa3Q&_hsmi=74219254
+- [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/)
 - [JavaScript Promises vs. RxJS Observables](https://itnext.io/javascript-promises-vs-rxjs-observables-de5309583ca2)
 - [Async JavaScript: From Callbacks, to Promises, to Async/Await](https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/)
 - The Most In-Demand JavaScript Frameworks for Developers in 2019: https://blog.bitsrc.io/the-most-in-demand-javascript-frameworks-for-developers-in-2019-39bba192d8dc
