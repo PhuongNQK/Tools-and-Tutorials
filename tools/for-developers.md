@@ -74,6 +74,7 @@ SonarQube:
     + [The React Handbook - by Flavio Copes](https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/)
     + React tutorial: https://www.toptal.com/react/react-tutorial-pt1?utm_source=hs_email&utm_medium=email&utm_content=71963100&_hsenc=p2ANqtz-9dGKJ3kkBuYfZJXQWTCsq82F0uHjvbfIrKtCeq385LliF4hfgHkIWBeTzOY-UKSWZdbl7XZzs7_qY1ZlgIXzXEXu6K6Q&_hsmi=71963100
     + How the “Golden Rule” of React components can help you write better code: https://medium.freecodecamp.org/how-the-golden-rule-of-react-components-can-help-you-write-better-code-127046b478eb
+    + [Two mistakes in React.js we keep making over and over again](https://medium.com/wix-engineering/two-mistakes-in-react-js-we-keep-doing-over-and-over-again-b1aea20fb3f0)
     + https://medium.com/@smashingmag/bringing-together-react-d3-and-their-ecosystem-dde80de29755
     + https://blog.bitsrc.io/lazy-loading-react-components-with-react-lazy-and-suspense-f05c4cfde10c
     + https://medium.com/javascript-in-plain-english/state-management-with-react-hooks-no-redux-or-context-api-8b3035ceecf8
@@ -117,6 +118,7 @@ SonarQube:
     + [Measure Performance with the RAIL (Response - Animation - Idle - Load) Model](https://developers.google.com/web/fundamentals/performance/rail)
     + [How to use Chrome and DevTools to find memory issues](https://developers.google.com/web/tools/chrome-devtools/memory-problems/)
     + [Efficiently load JavaScript with defer and async](https://flaviocopes.com/javascript-async-defer/)
+    + [Using flamegraphs](https://rbspy.github.io/using-flamegraphs/)
     + [The cost of JavaScript in 2019](https://v8.dev/blog/cost-of-javascript-2019#json)
     + Evaluation tool: https://testmysite.thinkwithgoogle.com/
     + All optimizations in one article: https://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/
