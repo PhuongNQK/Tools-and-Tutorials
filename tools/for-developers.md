@@ -52,6 +52,8 @@ SonarQube:
 - [JavaScript Promises vs. RxJS Observables](https://itnext.io/javascript-promises-vs-rxjs-observables-de5309583ca2)
 - [Async JavaScript: From Callbacks, to Promises, to Async/Await](https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/)
 - The Most In-Demand JavaScript Frameworks for Developers in 2019: https://blog.bitsrc.io/the-most-in-demand-javascript-frameworks-for-developers-in-2019-39bba192d8dc
+- [Understanding delete](http://perfectionkills.com/understanding-delete/)
+- [How do I remove a property from a JavaScript object?](https://stackoverflow.com/questions/208105/how-do-i-remove-a-property-from-a-javascript-object)
 - ECMAScript 6 features: https://github.com/lukehoban/es6features
 - Javascript: https://medium.freecodecamp.org/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e
 - Imba/Vanilla are faster than React/Vue: https://codeburst.io/faster-web-c6823830ce72
