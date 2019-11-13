@@ -77,11 +77,14 @@ SonarQube:
     + React tutorial: https://www.toptal.com/react/react-tutorial-pt1?utm_source=hs_email&utm_medium=email&utm_content=71963100&_hsenc=p2ANqtz-9dGKJ3kkBuYfZJXQWTCsq82F0uHjvbfIrKtCeq385LliF4hfgHkIWBeTzOY-UKSWZdbl7XZzs7_qY1ZlgIXzXEXu6K6Q&_hsmi=71963100
     + How the “Golden Rule” of React components can help you write better code: https://medium.freecodecamp.org/how-the-golden-rule-of-react-components-can-help-you-write-better-code-127046b478eb
     + [Two mistakes in React.js we keep making over and over again](https://medium.com/wix-engineering/two-mistakes-in-react-js-we-keep-doing-over-and-over-again-b1aea20fb3f0)
+    + [React Hooks — The Most Performant Way to Write React](https://blog.usejournal.com/react-hooks-the-most-performant-way-to-write-react-393e135e1cc)
+    + [This benchmark is indeed flawed](https://medium.com/@dan_abramov/this-benchmark-is-indeed-flawed-c3d6b5b6f97f)
+    + [](https://code.likeagirl.io/understanding-react-component-life-cycle-49bf4b8674de)
     + https://medium.com/@smashingmag/bringing-together-react-d3-and-their-ecosystem-dde80de29755
     + https://blog.bitsrc.io/lazy-loading-react-components-with-react-lazy-and-suspense-f05c4cfde10c
     + https://medium.com/javascript-in-plain-english/state-management-with-react-hooks-no-redux-or-context-api-8b3035ceecf8
     + https://medium.com/free-code-camp/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a
-    + [](https://www.robinwieruch.de/react-warning-cant-call-setstate-on-an-unmounted-component)
+    + [Understanding React component life-cycle](https://www.robinwieruch.de/react-warning-cant-call-setstate-on-an-unmounted-component)
 - Angular
     + https://medium.com/@spp020/44-quick-tips-to-fine-tune-angular-performance-9f5768f5d945
     + https://blog.angularindepth.com/inside-ivy-exploring-the-new-angular-compiler-ebf85141cee1
@@ -118,6 +121,7 @@ SonarQube:
         - https://github.com/mgechev/angular-seed/wiki/Speed-up-the-build-on-Windows
 - Performance optimization:
     + [Measure Performance with the RAIL (Response - Animation - Idle - Load) Model](https://developers.google.com/web/fundamentals/performance/rail)
+    + [krausest/js-framework-benchmark - A comparison of the perfomance of a few popular javascript frameworks](https://github.com/krausest/js-framework-benchmark)
     + [How to use Chrome and DevTools to find memory issues](https://developers.google.com/web/tools/chrome-devtools/memory-problems/)
     + [Efficiently load JavaScript with defer and async](https://flaviocopes.com/javascript-async-defer/)
     + [Using flamegraphs](https://rbspy.github.io/using-flamegraphs/)
