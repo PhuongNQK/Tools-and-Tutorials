@@ -179,6 +179,7 @@ SonarQube:
 - [The story of a V8 performance cliff in React](https://v8.dev/blog/react-cliff)
 
 # For Ruby developers
+- [A Web Server vs. an App Server](https://www.justinweiss.com/articles/a-web-server-vs-an-app-server/)
 - [Ruby Debugger Using Visual Studio Code](https://stackify.com/ruby-debugger-using-visual-studio-code/)
 - [Ruby Development with VS Code](https://medium.com/@terrenceong/ruby-development-with-vs-code-fab258db5f1d)
 - [Getting Started with Ruby](https://medium.com/@terrenceong/getting-started-with-ruby-part-1-77e3d7914f8f)
@@ -187,6 +188,7 @@ SonarQube:
 - [Ruby Naming Convention](http://www.marcelofossrj.com/guide/2017/07/15/ruby-naming.html)
 - [prettier/plugin-ruby](https://github.com/prettier/plugin-ruby)
 - [Example with Ruby on Rails Application for Codefresh](https://github.com/codefresh-contrib/ruby-on-rails-sample-app)
+- [Ruby on Rails - Getting Started](https://guides.rubyonrails.org/getting_started.html)
 - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
 - [Rubocop - A Ruby static code analyzer and formatter, based on the community Ruby style guide](https://github.com/rubocop-hq/rubocop)
 - [The Ruby Style Guide](https://rubystyle.guide/)
