@@ -48,6 +48,7 @@ SonarQube:
 
 # For frontend developers
 - A Look at JavaScript’s Future: https://www.toptal.com/javascript/predicting-javascript-future?utm_campaign=Toptal%20Engineering%20Blog&utm_source=hs_email&utm_medium=email&utm_content=74219254&_hsenc=p2ANqtz-_78NdGTe1DUbZ627Ydk6k0mdhMqxKvZF4615Xv292yWFmUPC0TcTvSldB_g3fEOqa6yTVJKBjcWpEC9zbhsQ1_NlXa3Q&_hsmi=74219254
+- [WebVR and the Browser Edge Computing Revolution](https://www.toptal.com/virtual-reality/webvr-and-edge-computing?utm_campaign=Toptal%20Engineering%20Blog&utm_source=hs_email&utm_medium=email&utm_content=79339601&_hsenc=p2ANqtz-_NG_bgEGcQdnsW9qu1Vadljhzd1ggDbPjngwa6UFag_PGu4tmra5viRA3LYKI7G4tHBMu2T9341lxElw3X3XN_8N7Xbw&_hsmi=79339601)
 - [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/)
 - [JavaScript Promises vs. RxJS Observables](https://itnext.io/javascript-promises-vs-rxjs-observables-de5309583ca2)
 - [Async JavaScript: From Callbacks, to Promises, to Async/Await](https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/)
@@ -86,6 +87,7 @@ SonarQube:
     + https://medium.com/free-code-camp/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a
     + [Understanding React component life-cycle](https://www.robinwieruch.de/react-warning-cant-call-setstate-on-an-unmounted-component)
     + [The story of a V8 performance cliff in React](https://v8.dev/blog/react-cliff)
+    + [The Good/The Bad of React & Redux: And Why Ducks Might Be The Solution](https://medium.com/swlh/the-good-the-bad-of-react-redux-and-why-ducks-might-be-the-solution-1567d5bdc698)
 - Angular
     + https://medium.com/@spp020/44-quick-tips-to-fine-tune-angular-performance-9f5768f5d945
     + https://blog.angularindepth.com/inside-ivy-exploring-the-new-angular-compiler-ebf85141cee1
@@ -165,6 +167,7 @@ SonarQube:
 - [Why the Hell Would You Use Node.js](https://medium.com/the-node-js-collection/why-the-hell-would-you-use-node-js-4b053b94ab8e)
 - How to Create and Publish an NPM module in TypeScript: https://codeburst.io/https-chidume-nnamdi-com-npm-module-in-typescript-12b3b22f0724
 - Build and publish a NPM library with Typescript: https://medium.com/@nilayvishwakarma/build-an-npm-package-with-typescript-by-nilay-vishwakarma-f303d7072f80
+- [Event loop from 10,000ft - core concept behind Node.js](https://bytearcher.com/articles/event-loop-10-000ft/)
 - [setImmediate vs. nextTick() vs. setTimeout() in NodeJS event loop](https://viblo.asia/p/giai-thich-ve-setimmediate-nexttick-va-settimeoutfn0-Az45bnLq5xY)
 - Writing production-ready Node and Express app:
     + [How to write a production-ready Node and Express app](https://www.freecodecamp.org/news/how-to-write-a-production-ready-node-and-express-app-f214f0b17d8c/)
@@ -216,6 +219,10 @@ SonarQube:
 - [14 Command Line Tools to Check CPU Usage in Linux](https://linoxide.com/monitoring-2/10-tools-monitor-cpu-performance-usage-linux-command-line/)
 - [How to Write Shell Scripts with JavaScript](https://www.sitepoint.com/shell-scripts-javascript/)
 - [Here Are 11 Console Commands Every Developer Should Know](https://medium.com/better-programming/here-are-11-console-commands-every-developer-should-know-54e348ef22fa)
+
+# For Game developers
+- [GDevelop - The game engine for everyone](https://gdevelop-app.com/)
+- [Desktop and Mobile HTML5 Game Framework](https://phaser.io/)
 
 # Cool projects
 ## Python
