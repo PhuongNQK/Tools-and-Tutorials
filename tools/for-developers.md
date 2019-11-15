@@ -210,6 +210,7 @@ SonarQube:
     + [Bash scripting](https://tecadmin.net/tutorial/bash-scripting/hello-world/)
 - [14 Command Line Tools to Check CPU Usage in Linux](https://linoxide.com/monitoring-2/10-tools-monitor-cpu-performance-usage-linux-command-line/)
 - [How to Write Shell Scripts with JavaScript](https://www.sitepoint.com/shell-scripts-javascript/)
+- [Here Are 11 Console Commands Every Developer Should Know](https://medium.com/better-programming/here-are-11-console-commands-every-developer-should-know-54e348ef22fa)
 
 # Cool projects
 ## Python
