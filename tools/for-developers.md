@@ -79,12 +79,13 @@ SonarQube:
     + [Two mistakes in React.js we keep making over and over again](https://medium.com/wix-engineering/two-mistakes-in-react-js-we-keep-doing-over-and-over-again-b1aea20fb3f0)
     + [React Hooks — The Most Performant Way to Write React](https://blog.usejournal.com/react-hooks-the-most-performant-way-to-write-react-393e135e1cc)
     + [This benchmark is indeed flawed](https://medium.com/@dan_abramov/this-benchmark-is-indeed-flawed-c3d6b5b6f97f)
-    + [](https://code.likeagirl.io/understanding-react-component-life-cycle-49bf4b8674de)
+    + [Understanding React component life-cycle](https://code.likeagirl.io/understanding-react-component-life-cycle-49bf4b8674de)
     + https://medium.com/@smashingmag/bringing-together-react-d3-and-their-ecosystem-dde80de29755
     + https://blog.bitsrc.io/lazy-loading-react-components-with-react-lazy-and-suspense-f05c4cfde10c
     + https://medium.com/javascript-in-plain-english/state-management-with-react-hooks-no-redux-or-context-api-8b3035ceecf8
     + https://medium.com/free-code-camp/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a
     + [Understanding React component life-cycle](https://www.robinwieruch.de/react-warning-cant-call-setstate-on-an-unmounted-component)
+    + [The story of a V8 performance cliff in React](https://v8.dev/blog/react-cliff)
 - Angular
     + https://medium.com/@spp020/44-quick-tips-to-fine-tune-angular-performance-9f5768f5d945
     + https://blog.angularindepth.com/inside-ivy-exploring-the-new-angular-compiler-ebf85141cee1
@@ -160,7 +161,7 @@ SonarQube:
         - Upgrading from Java 8 to Java 12: https://www.infoq.com/articles/upgrading-java-8-to-12?utm_source=infoqemail&utm_medium=java&utm_campaign=newsletter&utm_content=04162019
         - Panel: Java Is Still Free? https://www.infoq.com/presentations/panel-java-free?utm_source=infoqemail&utm_medium=java&utm_campaign=newsletter&utm_content=04162019
 
-# For Node developer
+# For Node developers
 - [Why the Hell Would You Use Node.js](https://medium.com/the-node-js-collection/why-the-hell-would-you-use-node-js-4b053b94ab8e)
 - How to Create and Publish an NPM module in TypeScript: https://codeburst.io/https-chidume-nnamdi-com-npm-module-in-typescript-12b3b22f0724
 - Build and publish a NPM library with Typescript: https://medium.com/@nilayvishwakarma/build-an-npm-package-with-typescript-by-nilay-vishwakarma-f303d7072f80
@@ -169,8 +170,12 @@ SonarQube:
     + [How to write a production-ready Node and Express app](https://www.freecodecamp.org/news/how-to-write-a-production-ready-node-and-express-app-f214f0b17d8c/)
     + [Production best practices: performance and reliability](https://expressjs.com/en/advanced/best-practice-performance.html)
     + [Express Tutorial Part 7: Deploying to production using Heroku](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/deployment)
+    
+# For V8 (and JS, Node) developers
+- [What is V8?](https://v8.dev/)
+- [The story of a V8 performance cliff in React](https://v8.dev/blog/react-cliff)
 
-# For Ruby developer
+# For Ruby developers
 - [Ruby Debugger Using Visual Studio Code](https://stackify.com/ruby-debugger-using-visual-studio-code/)
 - [Ruby Development with VS Code](https://medium.com/@terrenceong/ruby-development-with-vs-code-fab258db5f1d)
 - [Getting Started with Ruby](https://medium.com/@terrenceong/getting-started-with-ruby-part-1-77e3d7914f8f)
@@ -185,10 +190,10 @@ SonarQube:
 - [Ruby on Rails with Visual Studio Code](https://medium.com/@PaulWritesCode/ruby-on-rails-with-visual-studio-code-bc5681a2c098)
 - [A collection of Ruby and Ruby on Rails articles](https://www.sitepoint.com/properties-and-methods-in-ruby-from-a-net-pov/)
 
-# For Go developer
+# For Go developers
 - [GOLANG TUTORIAL - VISUAL STUDIO CODE](https://www.bogotobogo.com/GoLang/GoLang_Visual_Studio_Code.php)
 
-# For network developer
+# For network developers
 - Blockade: https://github.com/worstcase/blockade
 - JMeter: https://www.blazemeter.com/blog/using-ip-spoofing-simulate-requests-different-ip-addresses-jmeter
 
@@ -200,7 +205,7 @@ SonarQube:
 - TensorFlow: https://www.tensorflow.org
 - TensorFlow Hub: https://www.tensorflow.org/hub/
 
-# For DevOps / Server Admin (who will need to work a lot with command line tools)
+# For DevOps / Server Admins (who will need to work a lot with command line tools)
 - https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb
 - Configuring your server to provide HTTPS using Let's Encrypt and Nginx: https://hackernoon.com/configuring-your-server-to-provide-https-using-lets-encrypt-and-nginx-e46a5ae93e41
 - [ZeroSSL](https://zerossl.com/free-ssl)
