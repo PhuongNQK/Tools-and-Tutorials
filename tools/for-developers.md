@@ -58,104 +58,114 @@ SonarQube:
 - ECMAScript 6 features: https://github.com/lukehoban/es6features
 - Javascript: https://medium.freecodecamp.org/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e
 - Imba/Vanilla are faster than React/Vue: https://codeburst.io/faster-web-c6823830ce72
-- TypeScript:
-    + How To Use External Plain JavaScript Libraries in TypeScript Projects: https://www.techiediaries.com/use-external-javascript-libraries-typescript-projects/
-    + https://weblog.west-wind.com/posts/2016/sep/12/external-javascript-dependencies-in-typescript-and-angular-2
 - I abandoned React in favor of Hyperapp — Here’s why: https://hackernoon.com/i-abandonded-react-in-favor-of-hyperapp-heres-why-df65638f8a79
-- Webpack: 
-    + https://medium.com/free-code-camp/a-beginners-introduction-to-webpack-2620415e46b3
-    + [How and when (not) to use webpack for lazy loading?](https://medium.com/walkme-engineering/how-and-when-not-to-use-webpack-for-lazy-loading-bef9d37c42c1)
-    + [Webpack and Dynamic Imports: Doing it Right](https://medium.com/front-end-weekly/webpack-and-dynamic-imports-doing-it-right-72549ff49234)
-    + https://medium.com/ag-grid/webpack-tutorial-understanding-how-it-works-f73dfa164f01
-    + https://hackernoon.com/an-angular-2-webpack-setup-for-development-and-production-3ea8bcc35e24
-    + https://webpack.js.org/comparison/
-    + https://webpack.js.org/guides/asset-management/
-    + Plugins:
-        - [Optimize CSS Assets Webpack Plugin](https://www.npmjs.com/package/optimize-css-assets-webpack-plugin)
-        - [extract-css-chunks-webpack-plugin](https://www.npmjs.com/package/extract-css-chunks-webpack-plugin)
-- React:
-    + [The React Handbook - by Flavio Copes](https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/)
-    + React tutorial: https://www.toptal.com/react/react-tutorial-pt1?utm_source=hs_email&utm_medium=email&utm_content=71963100&_hsenc=p2ANqtz-9dGKJ3kkBuYfZJXQWTCsq82F0uHjvbfIrKtCeq385LliF4hfgHkIWBeTzOY-UKSWZdbl7XZzs7_qY1ZlgIXzXEXu6K6Q&_hsmi=71963100
-    + How the “Golden Rule” of React components can help you write better code: https://medium.freecodecamp.org/how-the-golden-rule-of-react-components-can-help-you-write-better-code-127046b478eb
-    + [Two mistakes in React.js we keep making over and over again](https://medium.com/wix-engineering/two-mistakes-in-react-js-we-keep-doing-over-and-over-again-b1aea20fb3f0)
-    + [React Hooks — The Most Performant Way to Write React](https://blog.usejournal.com/react-hooks-the-most-performant-way-to-write-react-393e135e1cc)
-    + [This benchmark is indeed flawed](https://medium.com/@dan_abramov/this-benchmark-is-indeed-flawed-c3d6b5b6f97f)
-    + [Understanding React component life-cycle](https://code.likeagirl.io/understanding-react-component-life-cycle-49bf4b8674de)
-    + https://medium.com/@smashingmag/bringing-together-react-d3-and-their-ecosystem-dde80de29755
-    + https://blog.bitsrc.io/lazy-loading-react-components-with-react-lazy-and-suspense-f05c4cfde10c
-    + https://medium.com/javascript-in-plain-english/state-management-with-react-hooks-no-redux-or-context-api-8b3035ceecf8
-    + https://medium.com/free-code-camp/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a
-    + [Understanding React component life-cycle](https://www.robinwieruch.de/react-warning-cant-call-setstate-on-an-unmounted-component)
-    + [The story of a V8 performance cliff in React](https://v8.dev/blog/react-cliff)
-    + [The Good/The Bad of React & Redux: And Why Ducks Might Be The Solution](https://medium.com/swlh/the-good-the-bad-of-react-redux-and-why-ducks-might-be-the-solution-1567d5bdc698)
-- Angular
-    + https://medium.com/@spp020/44-quick-tips-to-fine-tune-angular-performance-9f5768f5d945
-    + https://blog.angularindepth.com/inside-ivy-exploring-the-new-angular-compiler-ebf85141cee1
-    + https://medium.com/js-imaginea/ivy-a-look-at-the-new-render-engine-for-angular-953bf3b4907a
-    + https://github.com/benbraou/is-angular-ivy-ready, https://is-angular-ivy-ready.firebaseapp.com/#/status
-    + Webpack: https://medium.com/@jeff.boothe/angular-cli-meets-webpack-7c9b1a1e1e89
-    + Component interaction in Angular: https://www.codementor.io/kevinfarst/component-interaction-in-angular-7e989tlem
-    + Angular cheatsheet: https://www.cheatography.com//gregfinzer/cheat-sheets/angular-2/pdf/
-    + https://angular-templates.io/tutorials/about/learn-angular-from-scratch-step-by-step 
-    + https://medium.com/@cyrilletuzi/understanding-angular-modules-ngmodule-and-their-scopes-81e4ed6f7407
-    + Build your 1st Angular website: https://scotch.io/courses/build-your-first-angular-website/introduction
-    + Building an App from Scratch with Angular and Webpack: https://www.twilio.com/blog/2018/03/building-an-app-from-scratch-with-angular-and-webpack.html
-    + https://medium.freecodecamp.org/how-to-configure-webpack-4-with-angular-7-a-complete-guide-9a23c879f471
-    + Theming Angular App: https://medium.com/swlh/theming-angular-c869827738c3
-    + View Encapsulation in Angular: https://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html
-    + The mechanics of DOM updates in Angular: https://blog.angularindepth.com/the-mechanics-of-dom-updates-in-angular-3b2970d5c03d
-    + Introducing to NG-VDOM: A new way to write Angular application: https://blog.angularindepth.com/introducing-to-ng-vdom-a-new-way-to-write-angular-application-60a3be805e59
-    + Micro Frontends - How I Built An SPA With Angular And React? https://ivanjov.com/micro-frontends-how-i-built-a-spa-with-angular-and-react/
-    + Use <ng-template> - Part 6 of Advanced Angular Component Patterns: https://blog.angularindepth.com/use-ng-template-c72852c37fba
-    + Everything you need to know about <ng-template>, <ng-content>, <ng-container> and *ngTemplateOutlet in Angular: https://medium.freecodecamp.org/everything-you-need-to-know-about-ng-template-ng-content-ng-container-and-ngtemplateoutlet-4b7b51223691 
-    + Angular course: https://codecraft.tv/courses/angular/
-    + https://codeburst.io/how-to-build-an-angular-app-with-angular-cli-in-a-couple-of-minutes-43089d3ab272
-    + https://blog.angularindepth.com/debug-angular-apps-in-production-without-revealing-source-maps-ab4a235edd85
-- Material Design:
-    + https://material.io/
-    + For Angular: https://material.angular.io/
-    + For React: https://material-ui.com/
-    + For Bootstrap: https://fezvrasta.github.io/bootstrap-material-design/docs/4.0/getting-started/introduction/
-    + For Bootstrap / Angular / React / Vue: https://mdbootstrap.com/
-    + https://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/
-    + Angular Seed: 
-        - https://github.com/mgechev/angular-seed
-        - https://mgechev.github.io/angular-seed/
-        - https://github.com/mgechev/angular-seed/wiki/Speed-up-the-build-on-Windows
-- Performance optimization:
-    + [Measure Performance with the RAIL (Response - Animation - Idle - Load) Model](https://developers.google.com/web/fundamentals/performance/rail)
-    + [krausest/js-framework-benchmark - A comparison of the perfomance of a few popular javascript frameworks](https://github.com/krausest/js-framework-benchmark)
-    + [How to use Chrome and DevTools to find memory issues](https://developers.google.com/web/tools/chrome-devtools/memory-problems/)
-    + [Efficiently load JavaScript with defer and async](https://flaviocopes.com/javascript-async-defer/)
-    + [Using flamegraphs](https://rbspy.github.io/using-flamegraphs/)
-    + [The cost of JavaScript in 2019](https://v8.dev/blog/cost-of-javascript-2019#json)
-    + Evaluation tool: https://testmysite.thinkwithgoogle.com/
-    + All optimizations in one article: https://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/
-    + Analyze bundle size with:
-        - Angular CLI and Webpack: https://coryrylan.com/blog/analyzing-bundle-size-with-the-angular-cli-and-webpack
-        - Source map explorer: https://www.npmjs.com/package/source-map-explorer
-        - Webpack Bundle Analyzer: https://www.npmjs.com/package/webpack-bundle-analyzer
-    + Optimize app bundle size with:
-        - Webpack: https://hackernoon.com/optimising-your-application-bundle-size-with-webpack-e85b00bab579
-        - A Dirty Webpack Trick That Reduced Our gzipped Bundle Size by 55KB: https://dzone.com/articles/a-dirty-webpack-trick-that-reduced-our-gzipped-bun
-        - Compress requests / responses: 
-            + https://codeforgeek.com/2017/05/lossless-compression-http-request-response-nodejs-server-4013/
-            + https://betterexplained.com/articles/how-to-optimize-your-site-with-gzip-compression/
-            + Online Gzipper: http://www.txtwizard.net/compression
-    + Optimize Angular app load performance: https://medium.com/grano/optimizing-angular-application-load-performance-6bb796b1a7c1    
-    + Understanding webpack’s affair with the Angular CLI: https://hackernoon.com/webpack-for-angular-developers-c8584a60e627
-    + Use AMP: https://support.google.com/google-ads/answer/7384020?utm_source=amptms&utm_medium=referral&utm_campaign=tmsamp&_ga=2.185332650.2097388107.1540604110-1677011756.1540604110
-    + AMP - Tool to develop: https://www.ampproject.org/learn/overview/
-    + Create an effective mobile site: https://support.google.com/google-ads/answer/2549057   
-    + Understand JS operations:
-        - [Perfection kill - Understanding delete](http://perfectionkills.com/understanding-delete/)
-        - [How do I remove a property from a JavaScript object?
+
+## TypeScript
+- How To Use External Plain JavaScript Libraries in TypeScript Projects: https://www.techiediaries.com/use-external-javascript-libraries-typescript-projects/
+- https://weblog.west-wind.com/posts/2016/sep/12/external-javascript-dependencies-in-typescript-and-angular-2
+
+## Webpack
+- https://medium.com/free-code-camp/a-beginners-introduction-to-webpack-2620415e46b3
+- [How and when (not) to use webpack for lazy loading?](https://medium.com/walkme-engineering/how-and-when-not-to-use-webpack-for-lazy-loading-bef9d37c42c1)
+- [Webpack and Dynamic Imports: Doing it Right](https://medium.com/front-end-weekly/webpack-and-dynamic-imports-doing-it-right-72549ff49234)
+- https://medium.com/ag-grid/webpack-tutorial-understanding-how-it-works-f73dfa164f01
+- https://hackernoon.com/an-angular-2-webpack-setup-for-development-and-production-3ea8bcc35e24
+- https://webpack.js.org/comparison/
+- https://webpack.js.org/guides/asset-management/
+- Plugins:
+    + [Optimize CSS Assets Webpack Plugin](https://www.npmjs.com/package/optimize-css-assets-webpack-plugin)
+    + [extract-css-chunks-webpack-plugin](https://www.npmjs.com/package/extract-css-chunks-webpack-plugin)
+
+## Multi-frameworks
+- Micro Frontends - How I Built An SPA With Angular And React? https://ivanjov.com/micro-frontends-how-i-built-a-spa-with-angular-and-react/
+- [Versatile Ivy: Using Angular and React Together](https://blog.angularindepth.com/angular-and-react-together-with-ivy-5c77d1f48204)
+
+## React
+- [The React Handbook - by Flavio Copes](https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/)
+- React tutorial: https://www.toptal.com/react/react-tutorial-pt1?utm_source=hs_email&utm_medium=email&utm_content=71963100&_hsenc=p2ANqtz-9dGKJ3kkBuYfZJXQWTCsq82F0uHjvbfIrKtCeq385LliF4hfgHkIWBeTzOY-UKSWZdbl7XZzs7_qY1ZlgIXzXEXu6K6Q&_hsmi=71963100
+- How the “Golden Rule” of React components can help you write better code: https://medium.freecodecamp.org/how-the-golden-rule-of-react-components-can-help-you-write-better-code-127046b478eb
+- [Two mistakes in React.js we keep making over and over again](https://medium.com/wix-engineering/two-mistakes-in-react-js-we-keep-doing-over-and-over-again-b1aea20fb3f0)
+- [React Hooks — The Most Performant Way to Write React](https://blog.usejournal.com/react-hooks-the-most-performant-way-to-write-react-393e135e1cc)
+- [This benchmark is indeed flawed](https://medium.com/@dan_abramov/this-benchmark-is-indeed-flawed-c3d6b5b6f97f)
+- [Understanding React component life-cycle](https://code.likeagirl.io/understanding-react-component-life-cycle-49bf4b8674de)
+- https://medium.com/@smashingmag/bringing-together-react-d3-and-their-ecosystem-dde80de29755
+- https://blog.bitsrc.io/lazy-loading-react-components-with-react-lazy-and-suspense-f05c4cfde10c
+- https://medium.com/javascript-in-plain-english/state-management-with-react-hooks-no-redux-or-context-api-8b3035ceecf8
+- https://medium.com/free-code-camp/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a
+- [Understanding React component life-cycle](https://www.robinwieruch.de/react-warning-cant-call-setstate-on-an-unmounted-component)
+- [The story of a V8 performance cliff in React](https://v8.dev/blog/react-cliff)
+- [The Good/The Bad of React & Redux: And Why Ducks Might Be The Solution](https://medium.com/swlh/the-good-the-bad-of-react-redux-and-why-ducks-might-be-the-solution-1567d5bdc698)
+
+## Angular
+- https://medium.com/@spp020/44-quick-tips-to-fine-tune-angular-performance-9f5768f5d945
+- https://blog.angularindepth.com/inside-ivy-exploring-the-new-angular-compiler-ebf85141cee1
+- https://medium.com/js-imaginea/ivy-a-look-at-the-new-render-engine-for-angular-953bf3b4907a
+- https://github.com/benbraou/is-angular-ivy-ready, https://is-angular-ivy-ready.firebaseapp.com/#/status
+- Webpack: https://medium.com/@jeff.boothe/angular-cli-meets-webpack-7c9b1a1e1e89
+- Component interaction in Angular: https://www.codementor.io/kevinfarst/component-interaction-in-angular-7e989tlem
+- Angular cheatsheet: https://www.cheatography.com//gregfinzer/cheat-sheets/angular-2/pdf/
+- https://angular-templates.io/tutorials/about/learn-angular-from-scratch-step-by-step 
+- https://medium.com/@cyrilletuzi/understanding-angular-modules-ngmodule-and-their-scopes-81e4ed6f7407
+- Build your 1st Angular website: https://scotch.io/courses/build-your-first-angular-website/introduction
+- Building an App from Scratch with Angular and Webpack: https://www.twilio.com/blog/2018/03/building-an-app-from-scratch-with-angular-and-webpack.html
+- https://medium.freecodecamp.org/how-to-configure-webpack-4-with-angular-7-a-complete-guide-9a23c879f471
+- Theming Angular App: https://medium.com/swlh/theming-angular-c869827738c3
+- View Encapsulation in Angular: https://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html
+- The mechanics of DOM updates in Angular: https://blog.angularindepth.com/the-mechanics-of-dom-updates-in-angular-3b2970d5c03d
+- Introducing to NG-VDOM: A new way to write Angular application: https://blog.angularindepth.com/introducing-to-ng-vdom-a-new-way-to-write-angular-application-60a3be805e59
+- Use <ng-template> - Part 6 of Advanced Angular Component Patterns: https://blog.angularindepth.com/use-ng-template-c72852c37fba
+- Everything you need to know about <ng-template>, <ng-content>, <ng-container> and *ngTemplateOutlet in Angular: https://medium.freecodecamp.org/everything-you-need-to-know-about-ng-template-ng-content-ng-container-and-ngtemplateoutlet-4b7b51223691 
+- Angular course: https://codecraft.tv/courses/angular/
+- https://codeburst.io/how-to-build-an-angular-app-with-angular-cli-in-a-couple-of-minutes-43089d3ab272
+- https://blog.angularindepth.com/debug-angular-apps-in-production-without-revealing-source-maps-ab4a235edd85
+
+## Material Design:
+- https://material.io/
+- For Angular: https://material.angular.io/
+- For React: https://material-ui.com/
+- For Bootstrap: https://fezvrasta.github.io/bootstrap-material-design/docs/4.0/getting-started/introduction/
+- For Bootstrap / Angular / React / Vue: https://mdbootstrap.com/
+- https://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/
+- Angular Seed: 
+    + https://github.com/mgechev/angular-seed
+    + https://mgechev.github.io/angular-seed/
+    + https://github.com/mgechev/angular-seed/wiki/Speed-up-the-build-on-Windows
+
+## Performance optimization
+- [Measure Performance with the RAIL (Response - Animation - Idle - Load) Model](https://developers.google.com/web/fundamentals/performance/rail)
+- [krausest/js-framework-benchmark - A comparison of the perfomance of a few popular javascript frameworks](https://github.com/krausest/js-framework-benchmark)
+- [How to use Chrome and DevTools to find memory issues](https://developers.google.com/web/tools/chrome-devtools/memory-problems/)
+- [Efficiently load JavaScript with defer and async](https://flaviocopes.com/javascript-async-defer/)
+- [Using flamegraphs](https://rbspy.github.io/using-flamegraphs/)
+- [The cost of JavaScript in 2019](https://v8.dev/blog/cost-of-javascript-2019#json)
+- Evaluation tool: https://testmysite.thinkwithgoogle.com/
+- All optimizations in one article: https://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/
+- Analyze bundle size with:
+    + Angular CLI and Webpack: https://coryrylan.com/blog/analyzing-bundle-size-with-the-angular-cli-and-webpack
+    + Source map explorer: https://www.npmjs.com/package/source-map-explorer
+    + Webpack Bundle Analyzer: https://www.npmjs.com/package/webpack-bundle-analyzer
+- Optimize app bundle size with:
+    + Webpack: https://hackernoon.com/optimising-your-application-bundle-size-with-webpack-e85b00bab579
+    + A Dirty Webpack Trick That Reduced Our gzipped Bundle Size by 55KB: https://dzone.com/articles/a-dirty-webpack-trick-that-reduced-our-gzipped-bun
+    + Compress requests / responses: 
+        + https://codeforgeek.com/2017/05/lossless-compression-http-request-response-nodejs-server-4013/
+        + https://betterexplained.com/articles/how-to-optimize-your-site-with-gzip-compression/
+        + Online Gzipper: http://www.txtwizard.net/compression
+- Optimize Angular app load performance: https://medium.com/grano/optimizing-angular-application-load-performance-6bb796b1a7c1    
+- Understanding webpack’s affair with the Angular CLI: https://hackernoon.com/webpack-for-angular-developers-c8584a60e627
+- Use AMP: https://support.google.com/google-ads/answer/7384020?utm_source=amptms&utm_medium=referral&utm_campaign=tmsamp&_ga=2.185332650.2097388107.1540604110-1677011756.1540604110
+- AMP - Tool to develop: https://www.ampproject.org/learn/overview/
+- Create an effective mobile site: https://support.google.com/google-ads/answer/2549057   
+- Understand JS operations:
+    + [Perfection kill - Understanding delete](http://perfectionkills.com/understanding-delete/)
+    + [How do I remove a property from a JavaScript object?
 ](https://stackoverflow.com/questions/208105/how-do-i-remove-a-property-from-a-javascript-object)
-- NodeJS Web server:
-    + http-server: https://www.npmjs.com/package/http-server
-    + serve: https://www.npmjs.com/package/serve
-    + https://blog.cloudboost.io/run-your-angular-app-on-nodejs-c89f1e99ddd3
-    + https://qmau.me/blog/post/12-cach-toi-uu-hoa-website-thoi-dai-cua-mobile-first
+
+## NodeJS Web server
+- http-server: https://www.npmjs.com/package/http-server
+- serve: https://www.npmjs.com/package/serve
+- https://blog.cloudboost.io/run-your-angular-app-on-nodejs-c89f1e99ddd3
+- https://qmau.me/blog/post/12-cach-toi-uu-hoa-website-thoi-dai-cua-mobile-first
 
 # For backend developers
 - Java:
