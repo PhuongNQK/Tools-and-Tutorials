@@ -12,3 +12,7 @@
 # Infrastructure as Code
 - [TeraForm](https://www.terraform.io/) - Define infrastructure as code to make it reproducible and increase operator productivity and transparency
 - [Ansible](https://www.ansible.com/) - App deployment, configuration management and orchestration - all from one system
+
+# Source control
+- [Managing Feature Flags by Pato Echagüe, Adil Aijaz](https://www.oreilly.com/library/view/managing-feature-flags/9781492028598/ch01.html)
+- [	Trunk Based Development](https://trunkbaseddevelopment.com/)
