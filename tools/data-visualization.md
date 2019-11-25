@@ -3,8 +3,11 @@
 
 # Conceptual tools
 - https://towardsdatascience.com/3-awesome-visualization-techniques-for-every-dataset-9737eecacbe8
-
+https://github.com/PhuongNQK/Tools-and-Tutorials/pulse
 # Libraries & Frameworks
+- [Two.js - a two-dimensional drawing api geared towards modern web browsers, supporting Canvas, SVG, WebGL](https://two.js.org/)
+- [Fabric.js - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser ](https://github.com/fabricjs/fabric.js/tree/master)
+- [Konva.js - HTML5 2d canvas library for desktop and mobile applications](https://konvajs.org/)
 - [11 Javascript Data Visualization Libraries for 2019](https://blog.bitsrc.io/11-javascript-charts-and-data-visualization-libraries-for-2018-f01a283a5727)
 - [D3](https://d3js.org) is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS.
     + https://blog.risingstack.com/d3-js-tutorial-bar-charts-with-javascript/
