@@ -75,6 +75,8 @@ Utilize abstraction layers for flexibility. E.g.
   - http://memeagora.blogspot.com/2006/12/polyglot-programming.html
   - http://www.jamesserra.com/archive/2015/07/what-is-polyglot-persistence/
 - Define API for integration between different subsystems / components:
+  - Message-driven architecture:
+    - AsyncAPI: https://www.asyncapi.com/docs/getting-started/event-driven-architectures/
   - REST vs. GraphQL: https://dev-blog.apollodata.com/graphql-vs-rest-5d425123e34b
   - REST:
     - Swagger: http://swagger.io/
