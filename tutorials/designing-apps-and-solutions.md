@@ -46,6 +46,9 @@ Utilize abstraction layers for flexibility. E.g.
 - Instead of using Apache Flink / Apache Spark directly, we can use Apache Beam
 - Instead of using Hadoop directly, we can use Apache Ignite
 
+Data Privacy
+- [Privacy Architecture for Data-Driven Innovation](https://www.infoq.com/articles/data-driven-privacy-architecture/?utm_source=email&utm_medium=devops&utm_campaign=newsletter&utm_content=02042020)
+
 ## Concepts
 - API vs. SPI: https://stackoverflow.com/questions/2954372/difference-between-spi-and-api
 - SPI: https://www.developer.com/java/article.php/3848881/Service-Provider-Interface-Creating-Extensible-Java-Applications.htm
