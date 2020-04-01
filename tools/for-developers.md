@@ -2,6 +2,9 @@
 - Anaconda Cloud: https://anaconda.org/
 - Anaconda: https://conda.io/docs/index.html
 
+# Set up everything
+- [How to Set Up Your MacBook for Web Development in 2020](https://medium.com/better-programming/setting-up-your-mac-for-web-development-in-2020-659f5588b883)
+
 # IDE & extensions
 Visual Studio IDE:
 - https://www.visualstudio.com/
