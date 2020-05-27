@@ -4,3 +4,7 @@
 
 # Test frameworks
 - For .NET and .NET Core: https://xunit.github.io/docs/comparisons.html
+
+# Testing scenarios
+- [Test website performance with Puppeteer](https://michaljanaszek.com/blog/test-website-performance-with-puppeteer/)
+- [puppeteer-loadtest](https://openbase.io/js/puppeteer-loadtest)
