@@ -9,7 +9,9 @@
 - OCaml: http://ocaml.org/
 - Reason: https://reasonml.github.io/docs/en/what-and-why
 - TypeScript: https://www.typescriptlang.org/
-- GoLang: https://medium.freecodecamp.org/learning-go-from-zero-to-hero-d2a3223b3d86
+- GoLang: 
+    + https://medium.freecodecamp.org/learning-go-from-zero-to-hero-d2a3223b3d86
+    + [The coolest things about Go Language](https://medium.com/worldsensing-techblog/the-coolest-things-about-go-language-57a1c2c86a15)
 - [Dark](https://darklang.com/): 
     + [The design of Dark](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
 - [Julia](https://julialang.org/)
