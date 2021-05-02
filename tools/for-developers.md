@@ -172,6 +172,10 @@ SonarQube:
 - https://blog.cloudboost.io/run-your-angular-app-on-nodejs-c89f1e99ddd3
 - https://qmau.me/blog/post/12-cach-toi-uu-hoa-website-thoi-dai-cua-mobile-first
 
+# For mobile developers
+## Flutter
+- [Flutter : Chapter - 8 - Building Dynamic Widgets](https://www.youtube.com/watch?v=rUWI35DhLjk)
+
 # For backend developers
 - Java:
     + Milestones:
