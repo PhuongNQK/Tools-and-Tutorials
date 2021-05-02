@@ -122,6 +122,7 @@ SonarQube:
 - Angular course: https://codecraft.tv/courses/angular/
 - https://codeburst.io/how-to-build-an-angular-app-with-angular-cli-in-a-couple-of-minutes-43089d3ab272
 - https://blog.angularindepth.com/debug-angular-apps-in-production-without-revealing-source-maps-ab4a235edd85
+- [Advanced series from InterTech - Angular Development #6 – Dynamic Component Generation](https://www.intertech.com/angular-development-6-dynamic-component-generation/)
 
 ## Material Design:
 - https://material.io/
